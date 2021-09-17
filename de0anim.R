@@ -65,19 +65,19 @@ data_for_anim <-
     lab_1 =
       ifelse(
         year == 1970,
-        '"Life-expectancy is a measure of"~bold("current population health")',
+        '"Lebenserwartung reflektiert den"~bold("Gesundheitszustand einer Bevölkerung")',
         NA
       ),
     lab_2 =
       ifelse(
         year == 1977,
-        '"it tends to"~bold("increase")~"from year to year..."',
+        '"im Schnitt"~bold("steigt")~"sie von Jahr zu Jahr..."',
         NA
       ),
     lab_3 =
       ifelse(
         year == 1984,
-        '"...but sometimes it"~bold("declines")',
+        '"...aber manchmal gibt es"~bold("Verluste")',
         NA
       ),
     de0_4a =
@@ -115,19 +115,19 @@ data_for_anim <-
     lab_4 =
       ifelse(
         year == 1992,
-        'like in Eastern Europe after the fall of the Soviet Union',
+        'so in Osteuropa, nach dem Fall der Sowjetunion',
         NA
       ),
     de0_5 =
       ifelse(year == 2015 & de0 < 0, de0, NA),
     lab_5 = ifelse(
       year == 2016,
-      'or during the harsh flu-season 2014/15',
+      'oder nach der Grippewelle 2014/15',
       NA
     ),
     lab_6 = ifelse(
       year == 2020,
-      'or during the COVID-19 pandemic',
+      'oder während der COVID-19 Pandemie',
       NA
     )
   ) %>%
@@ -160,8 +160,8 @@ anim <-
   # year
   AddLabel(year, x = 'DE', y = 2.5, size = 10, family = 'Roboto', fontface = 'bold') +
   # increase decrease
-  AddLabel('1 year increase', x = 'US', y = 1, size = 5, family = 'Roboto') +
-  AddLabel('1 year decrease', x = 'US', y = -1, size = 5, family = 'Roboto') +
+  AddLabel('1 Jahr Anstieg', x = 'US', y = 1, size = 5, family = 'Roboto') +
+  AddLabel('1 Jahr Verlust', x = 'US', y = -1, size = 5, family = 'Roboto') +
   # a general increase
   AddLabel(lab_1, x = 'US', y = 2.6, parse = TRUE) +
   AddLabel(lab_2, x = 'BG', y = 2.3, parse = TRUE) +
@@ -188,7 +188,7 @@ anim <-
   ) +
   hrbrthemes::theme_ft_rc(base_family = 'Roboto Condensed') +
   labs(
-    title = 'Annual changes in life-expectancy 1970 to 2020',
+    title = 'Jährliche Veränderung der Lebenserwartung 1970 bis 2020',
     y = NULL, x = NULL,
     #caption = 'Data derived from: mortality.org Animation @jschoeley'
    ) +
