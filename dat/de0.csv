@@ -1,5 +1,10 @@
 region_code,region_name,sex,year,e0_pclm,e0_hmd,e0,de0
-AT,Austria,Female,1950,NA,67.28,67.28,NA
+AT,Austria,Female,1945,NA,NA,NA,NA
+AT,Austria,Female,1946,NA,NA,NA,NA
+AT,Austria,Female,1947,NA,64.01,64.01,NA
+AT,Austria,Female,1948,NA,65.77,65.77,1.76
+AT,Austria,Female,1949,NA,65.77,65.77,0
+AT,Austria,Female,1950,NA,67.28,67.28,1.51
 AT,Austria,Female,1951,NA,67.81,67.81,0.53
 AT,Austria,Female,1952,NA,69.23,69.23,1.42
 AT,Austria,Female,1953,NA,69.71,69.71,0.48
@@ -70,7 +75,12 @@ AT,Austria,Female,2017,84.1,83.89,83.89,-0.05
 AT,Austria,Female,2018,84.2,NA,84.2,0.31
 AT,Austria,Female,2019,84.32,NA,84.32,0.12
 AT,Austria,Female,2020,83.65,NA,83.65,-0.67
-AT,Austria,Male,1950,NA,62.18,62.18,NA
+AT,Austria,Male,1945,NA,NA,NA,NA
+AT,Austria,Male,1946,NA,NA,NA,NA
+AT,Austria,Male,1947,NA,58.95,58.95,NA
+AT,Austria,Male,1948,NA,60.53,60.53,1.58
+AT,Austria,Male,1949,NA,61.02,61.02,0.49
+AT,Austria,Male,1950,NA,62.18,62.18,1.16
 AT,Austria,Male,1951,NA,62.48,62.48,0.3
 AT,Austria,Male,1952,NA,64.09,64.09,1.61
 AT,Austria,Male,1953,NA,64.61,64.61,0.52
@@ -141,7 +151,12 @@ AT,Austria,Male,2017,79.89,79.28,79.28,0.14
 AT,Austria,Male,2018,79.84,NA,79.84,0.56
 AT,Austria,Male,2019,80.08,NA,80.08,0.23
 AT,Austria,Male,2020,79.26,NA,79.26,-0.81
-AT,Austria,Total,1950,NA,64.81,64.81,NA
+AT,Austria,Total,1945,NA,NA,NA,NA
+AT,Austria,Total,1946,NA,NA,NA,NA
+AT,Austria,Total,1947,NA,61.54,61.54,NA
+AT,Austria,Total,1948,NA,63.21,63.21,1.67
+AT,Austria,Total,1949,NA,63.47,63.47,0.26
+AT,Austria,Total,1950,NA,64.81,64.81,1.34
 AT,Austria,Total,1951,NA,65.22,65.22,0.41
 AT,Austria,Total,1952,NA,66.74,66.74,1.52
 AT,Austria,Total,1953,NA,67.25,67.25,0.51
@@ -212,7 +227,12 @@ AT,Austria,Total,2017,82.04,81.63,81.63,0.03
 AT,Austria,Total,2018,82.07,NA,82.07,0.44
 AT,Austria,Total,2019,82.25,NA,82.25,0.18
 AT,Austria,Total,2020,81.49,NA,81.49,-0.76
-AU,Australia,Female,1950,NA,71.72,71.72,NA
+AU,Australia,Female,1945,NA,70.28,70.28,NA
+AU,Australia,Female,1946,NA,70.15,70.15,-0.13
+AU,Australia,Female,1947,NA,70.96,70.96,0.81
+AU,Australia,Female,1948,NA,71,71,0.04
+AU,Australia,Female,1949,NA,71.78,71.78,0.78
+AU,Australia,Female,1950,NA,71.72,71.72,-0.06
 AU,Australia,Female,1951,NA,71.59,71.59,-0.13
 AU,Australia,Female,1952,NA,72.04,72.04,0.45
 AU,Australia,Female,1953,NA,72.56,72.56,0.52
@@ -283,7 +303,12 @@ AU,Australia,Female,2017,86.26,84.99,84.99,0.07
 AU,Australia,Female,2018,86.89,85.4,85.4,0.41
 AU,Australia,Female,2019,86.75,NA,86.75,1.35
 AU,Australia,Female,2020,87.29,NA,87.29,0.54
-AU,Australia,Male,1950,NA,66.51,66.51,NA
+AU,Australia,Male,1945,NA,66.62,66.62,NA
+AU,Australia,Male,1946,NA,65.87,65.87,-0.75
+AU,Australia,Male,1947,NA,66.28,66.28,0.41
+AU,Australia,Male,1948,NA,66.14,66.14,-0.14
+AU,Australia,Male,1949,NA,66.64,66.64,0.5
+AU,Australia,Male,1950,NA,66.51,66.51,-0.13
 AU,Australia,Male,1951,NA,66.08,66.08,-0.43
 AU,Australia,Male,1952,NA,66.45,66.45,0.37
 AU,Australia,Male,1953,NA,67.06,67.06,0.61
@@ -354,7 +379,12 @@ AU,Australia,Male,2017,83.66,81.01,81.01,0.18
 AU,Australia,Male,2018,84.18,81.38,81.38,0.37
 AU,Australia,Male,2019,84.16,NA,84.16,2.78
 AU,Australia,Male,2020,84.52,NA,84.52,0.36
-AU,Australia,Total,1950,NA,69,69,NA
+AU,Australia,Total,1945,NA,68.38,68.38,NA
+AU,Australia,Total,1946,NA,67.92,67.92,-0.46
+AU,Australia,Total,1947,NA,68.52,68.52,0.6
+AU,Australia,Total,1948,NA,68.47,68.47,-0.05
+AU,Australia,Total,1949,NA,69.09,69.09,0.62
+AU,Australia,Total,1950,NA,69,69,-0.09
 AU,Australia,Total,1951,NA,68.7,68.7,-0.3
 AU,Australia,Total,1952,NA,69.11,69.11,0.41
 AU,Australia,Total,1953,NA,69.69,69.69,0.58
@@ -425,7 +455,12 @@ AU,Australia,Total,2017,84.99,83,83,0.12
 AU,Australia,Total,2018,85.57,83.39,83.39,0.39
 AU,Australia,Total,2019,85.48,NA,85.48,2.09
 AU,Australia,Total,2020,85.94,NA,85.94,0.46
-BE,Belgium,Female,1950,NA,68.89,68.89,NA
+BE,Belgium,Female,1945,NA,61.27,61.27,NA
+BE,Belgium,Female,1946,NA,64.82,64.82,3.55
+BE,Belgium,Female,1947,NA,66.19,66.19,1.37
+BE,Belgium,Female,1948,NA,67.6,67.6,1.41
+BE,Belgium,Female,1949,NA,68.06,68.06,0.46
+BE,Belgium,Female,1950,NA,68.89,68.89,0.83
 BE,Belgium,Female,1951,NA,69.28,69.28,0.39
 BE,Belgium,Female,1952,NA,70.46,70.46,1.18
 BE,Belgium,Female,1953,NA,70.9,70.9,0.44
@@ -496,7 +531,12 @@ BE,Belgium,Female,2017,83.77,83.65,83.65,-0.04
 BE,Belgium,Female,2018,83.76,83.69,83.69,0.04
 BE,Belgium,Female,2019,84.1,NA,84.1,0.41
 BE,Belgium,Female,2020,82.93,NA,82.93,-1.17
-BE,Belgium,Male,1950,NA,63.81,63.81,NA
+BE,Belgium,Male,1945,NA,55.56,55.56,NA
+BE,Belgium,Male,1946,NA,59.13,59.13,3.57
+BE,Belgium,Male,1947,NA,60.79,60.79,1.66
+BE,Belgium,Male,1948,NA,62.34,62.34,1.55
+BE,Belgium,Male,1949,NA,62.92,62.92,0.58
+BE,Belgium,Male,1950,NA,63.81,63.81,0.89
 BE,Belgium,Male,1951,NA,64.29,64.29,0.48
 BE,Belgium,Male,1952,NA,65.54,65.54,1.25
 BE,Belgium,Male,1953,NA,65.88,65.88,0.34
@@ -567,7 +607,12 @@ BE,Belgium,Male,2017,79.15,79.01,79.01,0.21
 BE,Belgium,Male,2018,79.39,79.22,79.22,0.21
 BE,Belgium,Male,2019,79.76,NA,79.76,0.54
 BE,Belgium,Male,2020,78.6,NA,78.6,-1.16
-BE,Belgium,Total,1950,NA,66.3,66.3,NA
+BE,Belgium,Total,1945,NA,58.32,58.32,NA
+BE,Belgium,Total,1946,NA,61.89,61.89,3.57
+BE,Belgium,Total,1947,NA,63.42,63.42,1.53
+BE,Belgium,Total,1948,NA,64.92,64.92,1.5
+BE,Belgium,Total,1949,NA,65.43,65.43,0.51
+BE,Belgium,Total,1950,NA,66.3,66.3,0.87
 BE,Belgium,Total,1951,NA,66.75,66.75,0.45
 BE,Belgium,Total,1952,NA,67.96,67.96,1.21
 BE,Belgium,Total,1953,NA,68.35,68.35,0.39
@@ -638,7 +683,12 @@ BE,Belgium,Total,2017,81.5,81.37,81.37,0.1
 BE,Belgium,Total,2018,81.61,81.49,81.49,0.12
 BE,Belgium,Total,2019,81.97,NA,81.97,0.48
 BE,Belgium,Total,2020,80.77,NA,80.77,-1.19
-BG,Bulgaria,Female,1950,NA,63.28,63.28,NA
+BG,Bulgaria,Female,1945,NA,NA,NA,NA
+BG,Bulgaria,Female,1946,NA,NA,NA,NA
+BG,Bulgaria,Female,1947,NA,55.74,55.74,NA
+BG,Bulgaria,Female,1948,NA,57.26,57.26,1.52
+BG,Bulgaria,Female,1949,NA,59.69,59.69,2.43
+BG,Bulgaria,Female,1950,NA,63.28,63.28,3.59
 BG,Bulgaria,Female,1951,NA,62.27,62.27,-1.01
 BG,Bulgaria,Female,1952,NA,61.08,61.08,-1.19
 BG,Bulgaria,Female,1953,NA,65.96,65.96,4.88
@@ -709,7 +759,12 @@ BG,Bulgaria,Female,2017,78.25,78.34,78.34,-0.13
 BG,Bulgaria,Female,2018,78.39,NA,78.39,0.05
 BG,Bulgaria,Female,2019,78.59,NA,78.59,0.19
 BG,Bulgaria,Female,2020,77.29,NA,77.29,-1.29
-BG,Bulgaria,Male,1950,NA,59.7,59.7,NA
+BG,Bulgaria,Male,1945,NA,NA,NA,NA
+BG,Bulgaria,Male,1946,NA,NA,NA,NA
+BG,Bulgaria,Male,1947,NA,52.58,52.58,NA
+BG,Bulgaria,Male,1948,NA,54.43,54.43,1.85
+BG,Bulgaria,Male,1949,NA,56.34,56.34,1.91
+BG,Bulgaria,Male,1950,NA,59.7,59.7,3.36
 BG,Bulgaria,Male,1951,NA,59.13,59.13,-0.57
 BG,Bulgaria,Male,1952,NA,58.09,58.09,-1.04
 BG,Bulgaria,Male,1953,NA,62.46,62.46,4.37
@@ -780,7 +835,12 @@ BG,Bulgaria,Male,2017,71.4,71.37,71.37,0.06
 BG,Bulgaria,Male,2018,71.5,NA,71.5,0.13
 BG,Bulgaria,Male,2019,71.55,NA,71.55,0.05
 BG,Bulgaria,Male,2020,69.94,NA,69.94,-1.6
-BG,Bulgaria,Total,1950,NA,61.47,61.47,NA
+BG,Bulgaria,Total,1945,NA,NA,NA,NA
+BG,Bulgaria,Total,1946,NA,NA,NA,NA
+BG,Bulgaria,Total,1947,NA,54.14,54.14,NA
+BG,Bulgaria,Total,1948,NA,55.83,55.83,1.69
+BG,Bulgaria,Total,1949,NA,57.99,57.99,2.16
+BG,Bulgaria,Total,1950,NA,61.47,61.47,3.48
 BG,Bulgaria,Total,1951,NA,60.68,60.68,-0.79
 BG,Bulgaria,Total,1952,NA,59.57,59.57,-1.11
 BG,Bulgaria,Total,1953,NA,64.18,64.18,4.61
@@ -851,7 +911,12 @@ BG,Bulgaria,Total,2017,74.77,74.8,74.8,-0.03
 BG,Bulgaria,Total,2018,74.89,NA,74.89,0.09
 BG,Bulgaria,Total,2019,75,NA,75,0.11
 BG,Bulgaria,Total,2020,73.49,NA,73.49,-1.51
-CA,Canada,Female,1950,NA,70.58,70.58,NA
+CA,Canada,Female,1945,NA,68.12,68.12,NA
+CA,Canada,Female,1946,NA,68.33,68.33,0.21
+CA,Canada,Female,1947,NA,68.96,68.96,0.63
+CA,Canada,Female,1948,NA,69.42,69.42,0.46
+CA,Canada,Female,1949,NA,69.85,69.85,0.43
+CA,Canada,Female,1950,NA,70.58,70.58,0.73
 CA,Canada,Female,1951,NA,70.87,70.87,0.29
 CA,Canada,Female,1952,NA,71.39,71.39,0.52
 CA,Canada,Female,1953,NA,71.8,71.8,0.41
@@ -922,7 +987,12 @@ CA,Canada,Female,2017,84.64,84.13,84.13,0.06
 CA,Canada,Female,2018,84.6,84.12,84.12,-0.01
 CA,Canada,Female,2019,84.87,NA,84.87,0.75
 CA,Canada,Female,2020,84.24,NA,84.24,-0.63
-CA,Canada,Male,1950,NA,66.15,66.15,NA
+CA,Canada,Male,1945,NA,64.64,64.64,NA
+CA,Canada,Male,1946,NA,64.73,64.73,0.09
+CA,Canada,Male,1947,NA,64.89,64.89,0.16
+CA,Canada,Male,1948,NA,65.36,65.36,0.47
+CA,Canada,Male,1949,NA,65.63,65.63,0.27
+CA,Canada,Male,1950,NA,66.15,66.15,0.52
 CA,Canada,Male,1951,NA,66.43,66.43,0.28
 CA,Canada,Male,1952,NA,66.33,66.33,-0.1
 CA,Canada,Male,1953,NA,66.68,66.68,0.35
@@ -993,7 +1063,12 @@ CA,Canada,Male,2017,80.27,79.9,79.9,-0.07
 CA,Canada,Male,2018,80.37,79.99,79.99,0.09
 CA,Canada,Male,2019,80.6,NA,80.6,0.61
 CA,Canada,Male,2020,79.57,NA,79.57,-1.03
-CA,Canada,Total,1950,NA,68.21,68.21,NA
+CA,Canada,Total,1945,NA,66.26,66.26,NA
+CA,Canada,Total,1946,NA,66.41,66.41,0.15
+CA,Canada,Total,1947,NA,66.79,66.79,0.38
+CA,Canada,Total,1948,NA,67.25,67.25,0.46
+CA,Canada,Total,1949,NA,67.59,67.59,0.34
+CA,Canada,Total,1950,NA,68.21,68.21,0.62
 CA,Canada,Total,1951,NA,68.51,68.51,0.3
 CA,Canada,Total,1952,NA,68.68,68.68,0.17
 CA,Canada,Total,1953,NA,69.07,69.07,0.39
@@ -1064,7 +1139,12 @@ CA,Canada,Total,2017,82.48,82.04,82.04,-0.02
 CA,Canada,Total,2018,82.5,82.07,82.07,0.03
 CA,Canada,Total,2019,82.76,NA,82.76,0.69
 CA,Canada,Total,2020,81.9,NA,81.9,-0.86
-CH,Switzerland,Female,1950,NA,71.09,71.09,NA
+CH,Switzerland,Female,1945,NA,67.38,67.38,NA
+CH,Switzerland,Female,1946,NA,67.79,67.79,0.41
+CH,Switzerland,Female,1947,NA,68.34,68.34,0.55
+CH,Switzerland,Female,1948,NA,69.42,69.42,1.08
+CH,Switzerland,Female,1949,NA,70.04,70.04,0.62
+CH,Switzerland,Female,1950,NA,71.09,71.09,1.05
 CH,Switzerland,Female,1951,NA,70.97,70.97,-0.12
 CH,Switzerland,Female,1952,NA,71.85,71.85,0.88
 CH,Switzerland,Female,1953,NA,71.9,71.9,0.05
@@ -1135,7 +1215,12 @@ CH,Switzerland,Female,2017,85.47,85.37,85.37,0.14
 CH,Switzerland,Female,2018,85.48,85.38,85.38,0.01
 CH,Switzerland,Female,2019,85.61,NA,85.61,0.23
 CH,Switzerland,Female,2020,84.96,NA,84.96,-0.65
-CH,Switzerland,Male,1950,NA,66.65,66.65,NA
+CH,Switzerland,Male,1945,NA,63.31,63.31,NA
+CH,Switzerland,Male,1946,NA,64.26,64.26,0.95
+CH,Switzerland,Male,1947,NA,64.07,64.07,-0.19
+CH,Switzerland,Male,1948,NA,65.13,65.13,1.06
+CH,Switzerland,Male,1949,NA,65.77,65.77,0.64
+CH,Switzerland,Male,1950,NA,66.65,66.65,0.88
 CH,Switzerland,Male,1951,NA,66.34,66.34,-0.31
 CH,Switzerland,Male,1952,NA,67.24,67.24,0.9
 CH,Switzerland,Male,1953,NA,67.06,67.06,-0.18
@@ -1206,7 +1291,12 @@ CH,Switzerland,Male,2017,81.6,81.36,81.36,-0.17
 CH,Switzerland,Male,2018,81.93,81.65,81.65,0.29
 CH,Switzerland,Male,2019,82.17,NA,82.17,0.52
 CH,Switzerland,Male,2020,81.2,NA,81.2,-0.97
-CH,Switzerland,Total,1950,NA,68.91,68.91,NA
+CH,Switzerland,Total,1945,NA,65.38,65.38,NA
+CH,Switzerland,Total,1946,NA,66.06,66.06,0.68
+CH,Switzerland,Total,1947,NA,66.23,66.23,0.17
+CH,Switzerland,Total,1948,NA,67.31,67.31,1.08
+CH,Switzerland,Total,1949,NA,67.95,67.95,0.64
+CH,Switzerland,Total,1950,NA,68.91,68.91,0.96
 CH,Switzerland,Total,1951,NA,68.69,68.69,-0.22
 CH,Switzerland,Total,1952,NA,69.59,69.59,0.9
 CH,Switzerland,Total,1953,NA,69.52,69.52,-0.07
@@ -1277,6 +1367,11 @@ CH,Switzerland,Total,2017,83.59,83.42,83.42,-0.04
 CH,Switzerland,Total,2018,83.76,83.57,83.57,0.15
 CH,Switzerland,Total,2019,83.94,NA,83.94,0.37
 CH,Switzerland,Total,2020,83.11,NA,83.11,-0.83
+CL,Chile,Female,1945,NA,NA,NA,NA
+CL,Chile,Female,1946,NA,NA,NA,NA
+CL,Chile,Female,1947,NA,NA,NA,NA
+CL,Chile,Female,1948,NA,NA,NA,NA
+CL,Chile,Female,1949,NA,NA,NA,NA
 CL,Chile,Female,1950,NA,NA,NA,NA
 CL,Chile,Female,1951,NA,NA,NA,NA
 CL,Chile,Female,1952,NA,NA,NA,NA
@@ -1348,6 +1443,11 @@ CL,Chile,Female,2017,83.46,82.24,82.24,0.12
 CL,Chile,Female,2018,83.85,NA,83.85,1.61
 CL,Chile,Female,2019,83.87,NA,83.87,0.02
 CL,Chile,Female,2020,82.96,NA,82.96,-0.91
+CL,Chile,Male,1945,NA,NA,NA,NA
+CL,Chile,Male,1946,NA,NA,NA,NA
+CL,Chile,Male,1947,NA,NA,NA,NA
+CL,Chile,Male,1948,NA,NA,NA,NA
+CL,Chile,Male,1949,NA,NA,NA,NA
 CL,Chile,Male,1950,NA,NA,NA,NA
 CL,Chile,Male,1951,NA,NA,NA,NA
 CL,Chile,Male,1952,NA,NA,NA,NA
@@ -1419,6 +1519,11 @@ CL,Chile,Male,2017,77.95,77.1,77.1,0.2
 CL,Chile,Male,2018,78.28,NA,78.28,1.18
 CL,Chile,Male,2019,78.3,NA,78.3,0.02
 CL,Chile,Male,2020,76.94,NA,76.94,-1.36
+CL,Chile,Total,1945,NA,NA,NA,NA
+CL,Chile,Total,1946,NA,NA,NA,NA
+CL,Chile,Total,1947,NA,NA,NA,NA
+CL,Chile,Total,1948,NA,NA,NA,NA
+CL,Chile,Total,1949,NA,NA,NA,NA
 CL,Chile,Total,1950,NA,NA,NA,NA
 CL,Chile,Total,1951,NA,NA,NA,NA
 CL,Chile,Total,1952,NA,NA,NA,NA
@@ -1490,6 +1595,11 @@ CL,Chile,Total,2017,80.79,79.73,79.73,0.16
 CL,Chile,Total,2018,81.15,NA,81.15,1.42
 CL,Chile,Total,2019,81.17,NA,81.17,0.02
 CL,Chile,Total,2020,79.98,NA,79.98,-1.18
+CZ,Czech Republic,Female,1945,NA,NA,NA,NA
+CZ,Czech Republic,Female,1946,NA,NA,NA,NA
+CZ,Czech Republic,Female,1947,NA,NA,NA,NA
+CZ,Czech Republic,Female,1948,NA,NA,NA,NA
+CZ,Czech Republic,Female,1949,NA,NA,NA,NA
 CZ,Czech Republic,Female,1950,NA,66.83,66.83,NA
 CZ,Czech Republic,Female,1951,NA,67.73,67.73,0.9
 CZ,Czech Republic,Female,1952,NA,69.25,69.25,1.52
@@ -1561,6 +1671,11 @@ CZ,Czech Republic,Female,2017,81.91,81.86,81.86,-0.01
 CZ,Czech Republic,Female,2018,81.92,81.9,81.9,0.04
 CZ,Czech Republic,Female,2019,82.09,NA,82.09,0.19
 CZ,Czech Republic,Female,2020,81.18,NA,81.18,-0.91
+CZ,Czech Republic,Male,1945,NA,NA,NA,NA
+CZ,Czech Republic,Male,1946,NA,NA,NA,NA
+CZ,Czech Republic,Male,1947,NA,NA,NA,NA
+CZ,Czech Republic,Male,1948,NA,NA,NA,NA
+CZ,Czech Republic,Male,1949,NA,NA,NA,NA
 CZ,Czech Republic,Male,1950,NA,61.95,61.95,NA
 CZ,Czech Republic,Male,1951,NA,62.77,62.77,0.82
 CZ,Czech Republic,Male,1952,NA,64.42,64.42,1.65
@@ -1632,6 +1747,11 @@ CZ,Czech Republic,Male,2017,76.12,76.01,76.01,-0.04
 CZ,Czech Republic,Male,2018,76.2,76.08,76.08,0.07
 CZ,Czech Republic,Male,2019,76.45,NA,76.45,0.37
 CZ,Czech Republic,Male,2020,75.34,NA,75.34,-1.11
+CZ,Czech Republic,Total,1945,NA,NA,NA,NA
+CZ,Czech Republic,Total,1946,NA,NA,NA,NA
+CZ,Czech Republic,Total,1947,NA,NA,NA,NA
+CZ,Czech Republic,Total,1948,NA,NA,NA,NA
+CZ,Czech Republic,Total,1949,NA,NA,NA,NA
 CZ,Czech Republic,Total,1950,NA,64.4,64.4,NA
 CZ,Czech Republic,Total,1951,NA,65.26,65.26,0.86
 CZ,Czech Republic,Total,1952,NA,66.86,66.86,1.6
@@ -1703,6 +1823,11 @@ CZ,Czech Republic,Total,2017,79.03,78.95,78.95,-0.04
 CZ,Czech Republic,Total,2018,79.07,79,79,0.05
 CZ,Czech Republic,Total,2019,79.28,NA,79.28,0.28
 CZ,Czech Republic,Total,2020,78.24,NA,78.24,-1.05
+DE,Germany,Female,1945,NA,NA,NA,NA
+DE,Germany,Female,1946,NA,NA,NA,NA
+DE,Germany,Female,1947,NA,NA,NA,NA
+DE,Germany,Female,1948,NA,NA,NA,NA
+DE,Germany,Female,1949,NA,NA,NA,NA
 DE,Germany,Female,1950,NA,NA,NA,NA
 DE,Germany,Female,1951,NA,NA,NA,NA
 DE,Germany,Female,1952,NA,NA,NA,NA
@@ -1774,6 +1899,11 @@ DE,Germany,Female,2017,83.4,83.29,83.29,0.02
 DE,Germany,Female,2018,83.34,NA,83.34,0.05
 DE,Germany,Female,2019,83.69,NA,83.69,0.35
 DE,Germany,Female,2020,83.47,NA,83.47,-0.22
+DE,Germany,Male,1945,NA,NA,NA,NA
+DE,Germany,Male,1946,NA,NA,NA,NA
+DE,Germany,Male,1947,NA,NA,NA,NA
+DE,Germany,Male,1948,NA,NA,NA,NA
+DE,Germany,Male,1949,NA,NA,NA,NA
 DE,Germany,Male,1950,NA,NA,NA,NA
 DE,Germany,Male,1951,NA,NA,NA,NA
 DE,Germany,Male,1952,NA,NA,NA,NA
@@ -1845,6 +1975,11 @@ DE,Germany,Male,2017,78.85,78.56,78.56,0.17
 DE,Germany,Male,2018,78.8,NA,78.8,0.24
 DE,Germany,Male,2019,79.14,NA,79.14,0.34
 DE,Germany,Male,2020,78.8,NA,78.8,-0.34
+DE,Germany,Total,1945,NA,NA,NA,NA
+DE,Germany,Total,1946,NA,NA,NA,NA
+DE,Germany,Total,1947,NA,NA,NA,NA
+DE,Germany,Total,1948,NA,NA,NA,NA
+DE,Germany,Total,1949,NA,NA,NA,NA
 DE,Germany,Total,1950,NA,NA,NA,NA
 DE,Germany,Total,1951,NA,NA,NA,NA
 DE,Germany,Total,1952,NA,NA,NA,NA
@@ -1916,7 +2051,12 @@ DE,Germany,Total,2017,81.14,80.94,80.94,0.09
 DE,Germany,Total,2018,81.07,NA,81.07,0.13
 DE,Germany,Total,2019,81.42,NA,81.42,0.35
 DE,Germany,Total,2020,81.13,NA,81.13,-0.29
-DK,Denmark,Female,1950,NA,71.52,71.52,NA
+DK,Denmark,Female,1945,NA,67.21,67.21,NA
+DK,Denmark,Female,1946,NA,68.15,68.15,0.94
+DK,Denmark,Female,1947,NA,69.65,69.65,1.5
+DK,Denmark,Female,1948,NA,71.47,71.47,1.82
+DK,Denmark,Female,1949,NA,71.4,71.4,-0.07
+DK,Denmark,Female,1950,NA,71.52,71.52,0.12
 DK,Denmark,Female,1951,NA,72.15,72.15,0.63
 DK,Denmark,Female,1952,NA,72.15,72.15,0
 DK,Denmark,Female,1953,NA,72.47,72.47,0.32
@@ -1987,7 +2127,12 @@ DK,Denmark,Female,2017,82.96,83.12,83.12,0.33
 DK,Denmark,Female,2018,82.78,82.96,82.96,-0.16
 DK,Denmark,Female,2019,83.23,83.42,83.42,0.46
 DK,Denmark,Female,2020,83.3,NA,83.3,-0.12
-DK,Denmark,Male,1950,NA,69.11,69.11,NA
+DK,Denmark,Male,1945,NA,64.99,64.99,NA
+DK,Denmark,Male,1946,NA,66.35,66.35,1.36
+DK,Denmark,Male,1947,NA,67.44,67.44,1.09
+DK,Denmark,Male,1948,NA,68.74,68.74,1.3
+DK,Denmark,Male,1949,NA,68.85,68.85,0.11
+DK,Denmark,Male,1950,NA,69.11,69.11,0.26
 DK,Denmark,Male,1951,NA,69.71,69.71,0.6
 DK,Denmark,Male,1952,NA,69.39,69.39,-0.32
 DK,Denmark,Male,1953,NA,69.88,69.88,0.49
@@ -2058,7 +2203,12 @@ DK,Denmark,Male,2017,79.08,79.09,79.09,0.14
 DK,Denmark,Male,2018,78.96,79.02,79.02,-0.07
 DK,Denmark,Male,2019,79.39,79.44,79.44,0.42
 DK,Denmark,Male,2020,79.44,NA,79.44,0
-DK,Denmark,Total,1950,NA,70.31,70.31,NA
+DK,Denmark,Total,1945,NA,66.08,66.08,NA
+DK,Denmark,Total,1946,NA,67.24,67.24,1.16
+DK,Denmark,Total,1947,NA,68.54,68.54,1.3
+DK,Denmark,Total,1948,NA,70.09,70.09,1.55
+DK,Denmark,Total,1949,NA,70.12,70.12,0.03
+DK,Denmark,Total,1950,NA,70.31,70.31,0.19
 DK,Denmark,Total,1951,NA,70.92,70.92,0.61
 DK,Denmark,Total,1952,NA,70.76,70.76,-0.16
 DK,Denmark,Total,1953,NA,71.17,71.17,0.41
@@ -2129,6 +2279,11 @@ DK,Denmark,Total,2017,81.03,81.11,81.11,0.23
 DK,Denmark,Total,2018,80.88,80.99,80.99,-0.12
 DK,Denmark,Total,2019,81.31,81.43,81.43,0.44
 DK,Denmark,Total,2020,81.38,NA,81.38,-0.05
+EE,Estonia,Female,1945,NA,NA,NA,NA
+EE,Estonia,Female,1946,NA,NA,NA,NA
+EE,Estonia,Female,1947,NA,NA,NA,NA
+EE,Estonia,Female,1948,NA,NA,NA,NA
+EE,Estonia,Female,1949,NA,NA,NA,NA
 EE,Estonia,Female,1950,NA,NA,NA,NA
 EE,Estonia,Female,1951,NA,NA,NA,NA
 EE,Estonia,Female,1952,NA,NA,NA,NA
@@ -2200,6 +2355,11 @@ EE,Estonia,Female,2017,82.53,82.29,82.29,0.41
 EE,Estonia,Female,2018,82.52,82.41,82.41,0.12
 EE,Estonia,Female,2019,82.83,82.74,82.74,0.33
 EE,Estonia,Female,2020,82.62,NA,82.62,-0.12
+EE,Estonia,Male,1945,NA,NA,NA,NA
+EE,Estonia,Male,1946,NA,NA,NA,NA
+EE,Estonia,Male,1947,NA,NA,NA,NA
+EE,Estonia,Male,1948,NA,NA,NA,NA
+EE,Estonia,Male,1949,NA,NA,NA,NA
 EE,Estonia,Male,1950,NA,NA,NA,NA
 EE,Estonia,Male,1951,NA,NA,NA,NA
 EE,Estonia,Male,1952,NA,NA,NA,NA
@@ -2271,6 +2431,11 @@ EE,Estonia,Male,2017,73.83,73.67,73.67,0.47
 EE,Estonia,Male,2018,74,73.88,73.88,0.21
 EE,Estonia,Male,2019,74.54,74.42,74.42,0.54
 EE,Estonia,Male,2020,74.36,NA,74.36,-0.06
+EE,Estonia,Total,1945,NA,NA,NA,NA
+EE,Estonia,Total,1946,NA,NA,NA,NA
+EE,Estonia,Total,1947,NA,NA,NA,NA
+EE,Estonia,Total,1948,NA,NA,NA,NA
+EE,Estonia,Total,1949,NA,NA,NA,NA
 EE,Estonia,Total,1950,NA,NA,NA,NA
 EE,Estonia,Total,1951,NA,NA,NA,NA
 EE,Estonia,Total,1952,NA,NA,NA,NA
@@ -2342,7 +2507,12 @@ EE,Estonia,Total,2017,78.41,78.2,78.2,0.43
 EE,Estonia,Total,2018,78.48,78.36,78.36,0.16
 EE,Estonia,Total,2019,78.91,78.8,78.8,0.44
 EE,Estonia,Total,2020,78.68,NA,78.68,-0.12
-ES,Spain,Female,1950,NA,64.16,64.16,NA
+ES,Spain,Female,1945,NA,60.55,60.55,NA
+ES,Spain,Female,1946,NA,60.65,60.65,0.1
+ES,Spain,Female,1947,NA,61.66,61.66,1.01
+ES,Spain,Female,1948,NA,63.92,63.92,2.26
+ES,Spain,Female,1949,NA,63.5,63.5,-0.42
+ES,Spain,Female,1950,NA,64.16,64.16,0.66
 ES,Spain,Female,1951,NA,63.83,63.83,-0.33
 ES,Spain,Female,1952,NA,67.03,67.03,3.2
 ES,Spain,Female,1953,NA,67.9,67.9,0.87
@@ -2413,7 +2583,12 @@ ES,Spain,Female,2017,85.88,85.68,85.68,-0.1
 ES,Spain,Female,2018,86.05,85.81,85.81,0.13
 ES,Spain,Female,2019,86.5,NA,86.5,0.69
 ES,Spain,Female,2020,85.06,NA,85.06,-1.44
-ES,Spain,Male,1950,NA,59.29,59.29,NA
+ES,Spain,Male,1945,NA,54.99,54.99,NA
+ES,Spain,Male,1946,NA,54.56,54.56,-0.43
+ES,Spain,Male,1947,NA,56.55,56.55,1.99
+ES,Spain,Male,1948,NA,58.61,58.61,2.06
+ES,Spain,Male,1949,NA,58.32,58.32,-0.29
+ES,Spain,Male,1950,NA,59.29,59.29,0.97
 ES,Spain,Male,1951,NA,59.1,59.1,-0.19
 ES,Spain,Male,1952,NA,62.55,62.55,3.45
 ES,Spain,Male,1953,NA,63.49,63.49,0.94
@@ -2484,7 +2659,12 @@ ES,Spain,Male,2017,80.51,80.33,80.33,0.08
 ES,Spain,Male,2018,80.63,80.43,80.43,0.1
 ES,Spain,Male,2019,81.05,NA,81.05,0.62
 ES,Spain,Male,2020,79.65,NA,79.65,-1.4
-ES,Spain,Total,1950,NA,61.78,61.78,NA
+ES,Spain,Total,1945,NA,57.79,57.79,NA
+ES,Spain,Total,1946,NA,57.59,57.59,-0.2
+ES,Spain,Total,1947,NA,59.13,59.13,1.54
+ES,Spain,Total,1948,NA,61.31,61.31,2.18
+ES,Spain,Total,1949,NA,60.94,60.94,-0.37
+ES,Spain,Total,1950,NA,61.78,61.78,0.84
 ES,Spain,Total,1951,NA,61.5,61.5,-0.28
 ES,Spain,Total,1952,NA,64.85,64.85,3.35
 ES,Spain,Total,1953,NA,65.76,65.76,0.91
@@ -2555,7 +2735,12 @@ ES,Spain,Total,2017,83.23,83.04,83.04,-0.01
 ES,Spain,Total,2018,83.38,83.15,83.15,0.11
 ES,Spain,Total,2019,83.81,NA,83.81,0.66
 ES,Spain,Total,2020,82.36,NA,82.36,-1.45
-FI,Finland,Female,1950,NA,67.92,67.92,NA
+FI,Finland,Female,1945,NA,60.78,60.78,NA
+FI,Finland,Female,1946,NA,64.58,64.58,3.8
+FI,Finland,Female,1947,NA,64.58,64.58,0
+FI,Finland,Female,1948,NA,65.97,65.97,1.39
+FI,Finland,Female,1949,NA,66.14,66.14,0.17
+FI,Finland,Female,1950,NA,67.92,67.92,1.78
 FI,Finland,Female,1951,NA,68.83,68.83,0.91
 FI,Finland,Female,1952,NA,69.48,69.48,0.65
 FI,Finland,Female,1953,NA,69.76,69.76,0.28
@@ -2626,7 +2811,12 @@ FI,Finland,Female,2017,84.25,84.23,84.23,0.11
 FI,Finland,Female,2018,84.24,84.31,84.31,0.08
 FI,Finland,Female,2019,84.5,84.56,84.56,0.25
 FI,Finland,Female,2020,84.51,NA,84.51,-0.05
-FI,Finland,Male,1950,NA,60.38,60.38,NA
+FI,Finland,Male,1945,NA,52.9,52.9,NA
+FI,Finland,Male,1946,NA,56.34,56.34,3.44
+FI,Finland,Male,1947,NA,56.44,56.44,0.1
+FI,Finland,Male,1948,NA,57.91,57.91,1.47
+FI,Finland,Male,1949,NA,57.66,57.66,-0.25
+FI,Finland,Male,1950,NA,60.38,60.38,2.72
 FI,Finland,Male,1951,NA,62.26,62.26,1.88
 FI,Finland,Male,1952,NA,63.34,63.34,1.08
 FI,Finland,Male,1953,NA,63.25,63.25,-0.09
@@ -2697,7 +2887,12 @@ FI,Finland,Male,2017,78.8,78.72,78.72,0.29
 FI,Finland,Male,2018,79,78.91,78.91,0.19
 FI,Finland,Male,2019,79.25,79.22,79.22,0.31
 FI,Finland,Male,2020,79.12,NA,79.12,-0.1
-FI,Finland,Total,1950,NA,64.2,64.2,NA
+FI,Finland,Total,1945,NA,56.81,56.81,NA
+FI,Finland,Total,1946,NA,60.45,60.45,3.64
+FI,Finland,Total,1947,NA,60.51,60.51,0.06
+FI,Finland,Total,1948,NA,61.96,61.96,1.45
+FI,Finland,Total,1949,NA,61.89,61.89,-0.07
+FI,Finland,Total,1950,NA,64.2,64.2,2.31
 FI,Finland,Total,1951,NA,65.64,65.64,1.44
 FI,Finland,Total,1952,NA,66.52,66.52,0.88
 FI,Finland,Total,1953,NA,66.6,66.6,0.08
@@ -2768,7 +2963,12 @@ FI,Finland,Total,2017,81.55,81.5,81.5,0.21
 FI,Finland,Total,2018,81.64,81.63,81.63,0.13
 FI,Finland,Total,2019,81.9,81.91,81.91,0.28
 FI,Finland,Total,2020,81.82,NA,81.82,-0.09
-FR,France,Female,1950,NA,69.19,69.19,NA
+FR,France,Female,1945,NA,58.59,58.59,NA
+FR,France,Female,1946,NA,64.96,64.96,6.37
+FR,France,Female,1947,NA,66.65,66.65,1.69
+FR,France,Female,1948,NA,68.73,68.73,2.08
+FR,France,Female,1949,NA,67.52,67.52,-1.21
+FR,France,Female,1950,NA,69.19,69.19,1.67
 FR,France,Female,1951,NA,68.9,68.9,-0.29
 FR,France,Female,1952,NA,70.22,70.22,1.32
 FR,France,Female,1953,NA,70.23,70.23,0.01
@@ -2839,7 +3039,12 @@ FR,France,Female,2017,85.36,85.36,85.36,-0.04
 FR,France,Female,2018,85.47,85.49,85.49,0.13
 FR,France,Female,2019,85.54,NA,85.54,0.05
 FR,France,Female,2020,84.94,NA,84.94,-0.6
-FR,France,Male,1950,NA,63.43,63.43,NA
+FR,France,Male,1945,NA,51.37,51.37,NA
+FR,France,Male,1946,NA,59.65,59.65,8.28
+FR,France,Male,1947,NA,61.13,61.13,1.48
+FR,France,Male,1948,NA,62.72,62.72,1.59
+FR,France,Male,1949,NA,62.16,62.16,-0.56
+FR,France,Male,1950,NA,63.43,63.43,1.27
 FR,France,Male,1951,NA,63.17,63.17,-0.26
 FR,France,Male,1952,NA,64.41,64.41,1.24
 FR,France,Male,1953,NA,64.29,64.29,-0.12
@@ -2910,7 +3115,12 @@ FR,France,Male,2017,79.55,79.45,79.45,0.12
 FR,France,Male,2018,79.65,79.56,79.56,0.11
 FR,France,Male,2019,79.82,NA,79.82,0.26
 FR,France,Male,2020,79.15,NA,79.15,-0.67
-FR,France,Total,1950,NA,66.38,66.38,NA
+FR,France,Total,1945,NA,54.93,54.93,NA
+FR,France,Total,1946,NA,62.36,62.36,7.43
+FR,France,Total,1947,NA,63.95,63.95,1.59
+FR,France,Total,1948,NA,65.78,65.78,1.83
+FR,France,Total,1949,NA,64.9,64.9,-0.88
+FR,France,Total,1950,NA,66.38,66.38,1.48
 FR,France,Total,1951,NA,66.09,66.09,-0.29
 FR,France,Total,1952,NA,67.39,67.39,1.3
 FR,France,Total,1953,NA,67.32,67.32,-0.07
@@ -2981,7 +3191,12 @@ FR,France,Total,2017,82.52,82.48,82.48,0.04
 FR,France,Total,2018,82.62,82.6,82.6,0.12
 FR,France,Total,2019,82.75,NA,82.75,0.15
 FR,France,Total,2020,82.09,NA,82.09,-0.66
-GB-EAW,England and Wales,Female,1950,NA,71.31,71.31,NA
+GB-EAW,England and Wales,Female,1945,NA,68.73,68.73,NA
+GB-EAW,England and Wales,Female,1946,NA,69.18,69.18,0.45
+GB-EAW,England and Wales,Female,1947,NA,69.28,69.28,0.1
+GB-EAW,England and Wales,Female,1948,NA,71.1,71.1,1.82
+GB-EAW,England and Wales,Female,1949,NA,70.72,70.72,-0.38
+GB-EAW,England and Wales,Female,1950,NA,71.31,71.31,0.59
 GB-EAW,England and Wales,Female,1951,NA,71.03,71.03,-0.28
 GB-EAW,England and Wales,Female,1952,NA,72.47,72.47,1.44
 GB-EAW,England and Wales,Female,1953,NA,72.62,72.62,0.15
@@ -3052,7 +3267,12 @@ GB-EAW,England and Wales,Female,2017,NA,83.2,83.2,0.12
 GB-EAW,England and Wales,Female,2018,NA,83.17,83.17,-0.03
 GB-EAW,England and Wales,Female,2019,NA,NA,NA,NA
 GB-EAW,England and Wales,Female,2020,NA,NA,NA,NA
-GB-EAW,England and Wales,Male,1950,NA,66.52,66.52,NA
+GB-EAW,England and Wales,Male,1945,NA,55.75,55.75,NA
+GB-EAW,England and Wales,Male,1946,NA,64.6,64.6,8.85
+GB-EAW,England and Wales,Male,1947,NA,64.58,64.58,-0.02
+GB-EAW,England and Wales,Male,1948,NA,66.46,66.46,1.88
+GB-EAW,England and Wales,Male,1949,NA,66.14,66.14,-0.32
+GB-EAW,England and Wales,Male,1950,NA,66.52,66.52,0.38
 GB-EAW,England and Wales,Male,1951,NA,65.91,65.91,-0.61
 GB-EAW,England and Wales,Male,1952,NA,67.08,67.08,1.17
 GB-EAW,England and Wales,Male,1953,NA,67.32,67.32,0.24
@@ -3123,7 +3343,12 @@ GB-EAW,England and Wales,Male,2017,NA,79.54,79.54,0.09
 GB-EAW,England and Wales,Male,2018,NA,79.5,79.5,-0.04
 GB-EAW,England and Wales,Male,2019,NA,NA,NA,NA
 GB-EAW,England and Wales,Male,2020,NA,NA,NA,NA
-GB-EAW,England and Wales,Total,1950,NA,68.96,68.96,NA
+GB-EAW,England and Wales,Total,1945,NA,61.86,61.86,NA
+GB-EAW,England and Wales,Total,1946,NA,66.93,66.93,5.07
+GB-EAW,England and Wales,Total,1947,NA,66.97,66.97,0.04
+GB-EAW,England and Wales,Total,1948,NA,68.83,68.83,1.86
+GB-EAW,England and Wales,Total,1949,NA,68.47,68.47,-0.36
+GB-EAW,England and Wales,Total,1950,NA,68.96,68.96,0.49
 GB-EAW,England and Wales,Total,1951,NA,68.51,68.51,-0.45
 GB-EAW,England and Wales,Total,1952,NA,69.83,69.83,1.32
 GB-EAW,England and Wales,Total,1953,NA,70.04,70.04,0.21
@@ -3194,7 +3419,12 @@ GB-EAW,England and Wales,Total,2017,NA,81.39,81.39,0.1
 GB-EAW,England and Wales,Total,2018,NA,81.35,81.35,-0.04
 GB-EAW,England and Wales,Total,2019,NA,NA,NA,NA
 GB-EAW,England and Wales,Total,2020,NA,NA,NA,NA
-GB-NIR,Northern Ireland,Female,1950,NA,68.63,68.63,NA
+GB-NIR,Northern Ireland,Female,1945,NA,64.22,64.22,NA
+GB-NIR,Northern Ireland,Female,1946,NA,65.23,65.23,1.01
+GB-NIR,Northern Ireland,Female,1947,NA,65.62,65.62,0.39
+GB-NIR,Northern Ireland,Female,1948,NA,67.9,67.9,2.28
+GB-NIR,Northern Ireland,Female,1949,NA,67.91,67.91,0.01
+GB-NIR,Northern Ireland,Female,1950,NA,68.63,68.63,0.72
 GB-NIR,Northern Ireland,Female,1951,NA,67.72,67.72,-0.91
 GB-NIR,Northern Ireland,Female,1952,NA,70.34,70.34,2.62
 GB-NIR,Northern Ireland,Female,1953,NA,70.65,70.65,0.31
@@ -3265,7 +3495,12 @@ GB-NIR,Northern Ireland,Female,2017,NA,82.44,82.44,0.18
 GB-NIR,Northern Ireland,Female,2018,NA,82.46,82.46,0.02
 GB-NIR,Northern Ireland,Female,2019,NA,NA,NA,NA
 GB-NIR,Northern Ireland,Female,2020,NA,NA,NA,NA
-GB-NIR,Northern Ireland,Male,1950,NA,65.37,65.37,NA
+GB-NIR,Northern Ireland,Male,1945,NA,62.53,62.53,NA
+GB-NIR,Northern Ireland,Male,1946,NA,62.62,62.62,0.09
+GB-NIR,Northern Ireland,Male,1947,NA,62.53,62.53,-0.09
+GB-NIR,Northern Ireland,Male,1948,NA,64.69,64.69,2.16
+GB-NIR,Northern Ireland,Male,1949,NA,65.14,65.14,0.45
+GB-NIR,Northern Ireland,Male,1950,NA,65.37,65.37,0.23
 GB-NIR,Northern Ireland,Male,1951,NA,64.45,64.45,-0.92
 GB-NIR,Northern Ireland,Male,1952,NA,66.3,66.3,1.85
 GB-NIR,Northern Ireland,Male,1953,NA,66.52,66.52,0.22
@@ -3336,7 +3571,12 @@ GB-NIR,Northern Ireland,Male,2017,NA,78.4,78.4,-0.35
 GB-NIR,Northern Ireland,Male,2018,NA,78.86,78.86,0.46
 GB-NIR,Northern Ireland,Male,2019,NA,NA,NA,NA
 GB-NIR,Northern Ireland,Male,2020,NA,NA,NA,NA
-GB-NIR,Northern Ireland,Total,1950,NA,67.02,67.02,NA
+GB-NIR,Northern Ireland,Total,1945,NA,63.39,63.39,NA
+GB-NIR,Northern Ireland,Total,1946,NA,63.93,63.93,0.54
+GB-NIR,Northern Ireland,Total,1947,NA,64.08,64.08,0.15
+GB-NIR,Northern Ireland,Total,1948,NA,66.3,66.3,2.22
+GB-NIR,Northern Ireland,Total,1949,NA,66.54,66.54,0.24
+GB-NIR,Northern Ireland,Total,1950,NA,67.02,67.02,0.48
 GB-NIR,Northern Ireland,Total,1951,NA,66.1,66.1,-0.92
 GB-NIR,Northern Ireland,Total,1952,NA,68.33,68.33,2.23
 GB-NIR,Northern Ireland,Total,1953,NA,68.59,68.59,0.26
@@ -3407,7 +3647,12 @@ GB-NIR,Northern Ireland,Total,2017,NA,80.45,80.45,-0.11
 GB-NIR,Northern Ireland,Total,2018,NA,80.7,80.7,0.25
 GB-NIR,Northern Ireland,Total,2019,NA,NA,NA,NA
 GB-NIR,Northern Ireland,Total,2020,NA,NA,NA,NA
-GB-SCT,Scotland,Female,1950,NA,68.17,68.17,NA
+GB-SCT,Scotland,Female,1945,NA,65.93,65.93,NA
+GB-SCT,Scotland,Female,1946,NA,65.44,65.44,-0.49
+GB-SCT,Scotland,Female,1947,NA,65.51,65.51,0.07
+GB-SCT,Scotland,Female,1948,NA,67.53,67.53,2.02
+GB-SCT,Scotland,Female,1949,NA,67.53,67.53,0
+GB-SCT,Scotland,Female,1950,NA,68.17,68.17,0.64
 GB-SCT,Scotland,Female,1951,NA,68.42,68.42,0.25
 GB-SCT,Scotland,Female,1952,NA,69.57,69.57,1.15
 GB-SCT,Scotland,Female,1953,NA,70.67,70.67,1.1
@@ -3478,7 +3723,12 @@ GB-SCT,Scotland,Female,2017,NA,81.17,81.17,0.08
 GB-SCT,Scotland,Female,2018,NA,81.04,81.04,-0.13
 GB-SCT,Scotland,Female,2019,NA,NA,NA,NA
 GB-SCT,Scotland,Female,2020,NA,NA,NA,NA
-GB-SCT,Scotland,Male,1950,NA,64.15,64.15,NA
+GB-SCT,Scotland,Male,1945,NA,59.68,59.68,NA
+GB-SCT,Scotland,Male,1946,NA,60.65,60.65,0.97
+GB-SCT,Scotland,Male,1947,NA,61.19,61.19,0.54
+GB-SCT,Scotland,Male,1948,NA,63.46,63.46,2.27
+GB-SCT,Scotland,Male,1949,NA,63.69,63.69,0.23
+GB-SCT,Scotland,Male,1950,NA,64.15,64.15,0.46
 GB-SCT,Scotland,Male,1951,NA,64.14,64.14,-0.01
 GB-SCT,Scotland,Male,1952,NA,65.04,65.04,0.9
 GB-SCT,Scotland,Male,1953,NA,65.59,65.59,0.55
@@ -3549,7 +3799,12 @@ GB-SCT,Scotland,Male,2017,NA,77.15,77.15,0.18
 GB-SCT,Scotland,Male,2018,NA,77.08,77.08,-0.07
 GB-SCT,Scotland,Male,2019,NA,NA,NA,NA
 GB-SCT,Scotland,Male,2020,NA,NA,NA,NA
-GB-SCT,Scotland,Total,1950,NA,66.21,66.21,NA
+GB-SCT,Scotland,Total,1945,NA,63.03,63.03,NA
+GB-SCT,Scotland,Total,1946,NA,63.11,63.11,0.08
+GB-SCT,Scotland,Total,1947,NA,63.39,63.39,0.28
+GB-SCT,Scotland,Total,1948,NA,65.55,65.55,2.16
+GB-SCT,Scotland,Total,1949,NA,65.66,65.66,0.11
+GB-SCT,Scotland,Total,1950,NA,66.21,66.21,0.55
 GB-SCT,Scotland,Total,1951,NA,66.33,66.33,0.12
 GB-SCT,Scotland,Total,1952,NA,67.36,67.36,1.03
 GB-SCT,Scotland,Total,1953,NA,68.19,68.19,0.83
@@ -3620,7 +3875,12 @@ GB-SCT,Scotland,Total,2017,NA,79.19,79.19,0.12
 GB-SCT,Scotland,Total,2018,NA,79.09,79.09,-0.1
 GB-SCT,Scotland,Total,2019,NA,NA,NA,NA
 GB-SCT,Scotland,Total,2020,NA,NA,NA,NA
-GB,United Kingdom,Female,1950,NA,70.92,70.92,NA
+GB,United Kingdom,Female,1945,NA,68.32,68.32,NA
+GB,United Kingdom,Female,1946,NA,68.63,68.63,0.31
+GB,United Kingdom,Female,1947,NA,68.79,68.79,0.16
+GB,United Kingdom,Female,1948,NA,70.62,70.62,1.83
+GB,United Kingdom,Female,1949,NA,70.3,70.3,-0.32
+GB,United Kingdom,Female,1950,NA,70.92,70.92,0.62
 GB,United Kingdom,Female,1951,NA,70.68,70.68,-0.24
 GB,United Kingdom,Female,1952,NA,72.11,72.11,1.43
 GB,United Kingdom,Female,1953,NA,72.36,72.36,0.25
@@ -3691,7 +3951,12 @@ GB,United Kingdom,Female,2017,82.79,82.99,82.99,0.11
 GB,United Kingdom,Female,2018,82.77,82.95,82.95,-0.04
 GB,United Kingdom,Female,2019,83.16,NA,83.16,0.21
 GB,United Kingdom,Female,2020,82.29,NA,82.29,-0.87
-GB,United Kingdom,Male,1950,NA,66.24,66.24,NA
+GB,United Kingdom,Male,1945,NA,62.79,62.79,NA
+GB,United Kingdom,Male,1946,NA,63.71,63.71,0.92
+GB,United Kingdom,Male,1947,NA,64.02,64.02,0.31
+GB,United Kingdom,Male,1948,NA,66.01,66.01,1.99
+GB,United Kingdom,Male,1949,NA,65.82,65.82,-0.19
+GB,United Kingdom,Male,1950,NA,66.24,66.24,0.42
 GB,United Kingdom,Male,1951,NA,65.71,65.71,-0.53
 GB,United Kingdom,Male,1952,NA,66.83,66.83,1.12
 GB,United Kingdom,Male,1953,NA,67.12,67.12,0.29
@@ -3762,7 +4027,12 @@ GB,United Kingdom,Male,2017,79.24,79.3,79.3,0.08
 GB,United Kingdom,Male,2018,79.22,79.27,79.27,-0.03
 GB,United Kingdom,Male,2019,79.56,NA,79.56,0.29
 GB,United Kingdom,Male,2020,78.44,NA,78.44,-1.13
-GB,United Kingdom,Total,1950,NA,68.63,68.63,NA
+GB,United Kingdom,Total,1945,NA,65.76,65.76,NA
+GB,United Kingdom,Total,1946,NA,66.24,66.24,0.48
+GB,United Kingdom,Total,1947,NA,66.44,66.44,0.2
+GB,United Kingdom,Total,1948,NA,68.37,68.37,1.93
+GB,United Kingdom,Total,1949,NA,68.11,68.11,-0.26
+GB,United Kingdom,Total,1950,NA,68.63,68.63,0.52
 GB,United Kingdom,Total,1951,NA,68.24,68.24,-0.39
 GB,United Kingdom,Total,1952,NA,69.53,69.53,1.29
 GB,United Kingdom,Total,1953,NA,69.8,69.8,0.27
@@ -3833,6 +4103,11 @@ GB,United Kingdom,Total,2017,81.04,81.17,81.17,0.1
 GB,United Kingdom,Total,2018,81.01,81.13,81.13,-0.04
 GB,United Kingdom,Total,2019,81.38,NA,81.38,0.25
 GB,United Kingdom,Total,2020,80.36,NA,80.36,-1.02
+GR,Greece,Female,1945,NA,NA,NA,NA
+GR,Greece,Female,1946,NA,NA,NA,NA
+GR,Greece,Female,1947,NA,NA,NA,NA
+GR,Greece,Female,1948,NA,NA,NA,NA
+GR,Greece,Female,1949,NA,NA,NA,NA
 GR,Greece,Female,1950,NA,NA,NA,NA
 GR,Greece,Female,1951,NA,NA,NA,NA
 GR,Greece,Female,1952,NA,NA,NA,NA
@@ -3904,6 +4179,11 @@ GR,Greece,Female,2017,83.42,83.7,83.7,-0.05
 GR,Greece,Female,2018,83.98,NA,83.98,0.28
 GR,Greece,Female,2019,83.73,NA,83.73,-0.25
 GR,Greece,Female,2020,83.5,NA,83.5,-0.23
+GR,Greece,Male,1945,NA,NA,NA,NA
+GR,Greece,Male,1946,NA,NA,NA,NA
+GR,Greece,Male,1947,NA,NA,NA,NA
+GR,Greece,Male,1948,NA,NA,NA,NA
+GR,Greece,Male,1949,NA,NA,NA,NA
 GR,Greece,Male,1950,NA,NA,NA,NA
 GR,Greece,Male,1951,NA,NA,NA,NA
 GR,Greece,Male,1952,NA,NA,NA,NA
@@ -3975,6 +4255,11 @@ GR,Greece,Male,2017,78.53,78.6,78.6,-0.03
 GR,Greece,Male,2018,79.01,NA,79.01,0.41
 GR,Greece,Male,2019,78.93,NA,78.93,-0.08
 GR,Greece,Male,2020,78.57,NA,78.57,-0.36
+GR,Greece,Total,1945,NA,NA,NA,NA
+GR,Greece,Total,1946,NA,NA,NA,NA
+GR,Greece,Total,1947,NA,NA,NA,NA
+GR,Greece,Total,1948,NA,NA,NA,NA
+GR,Greece,Total,1949,NA,NA,NA,NA
 GR,Greece,Total,1950,NA,NA,NA,NA
 GR,Greece,Total,1951,NA,NA,NA,NA
 GR,Greece,Total,1952,NA,NA,NA,NA
@@ -4046,6 +4331,11 @@ GR,Greece,Total,2017,80.97,81.16,81.16,-0.04
 GR,Greece,Total,2018,81.49,NA,81.49,0.33
 GR,Greece,Total,2019,81.32,NA,81.32,-0.17
 GR,Greece,Total,2020,81.02,NA,81.02,-0.29
+HR,Croatia,Female,1945,NA,NA,NA,NA
+HR,Croatia,Female,1946,NA,NA,NA,NA
+HR,Croatia,Female,1947,NA,NA,NA,NA
+HR,Croatia,Female,1948,NA,NA,NA,NA
+HR,Croatia,Female,1949,NA,NA,NA,NA
 HR,Croatia,Female,1950,NA,NA,NA,NA
 HR,Croatia,Female,1951,NA,NA,NA,NA
 HR,Croatia,Female,1952,NA,NA,NA,NA
@@ -4117,6 +4407,11 @@ HR,Croatia,Female,2017,81.46,80.86,80.86,-0.31
 HR,Croatia,Female,2018,81.92,81.32,81.32,0.46
 HR,Croatia,Female,2019,82.01,NA,82.01,0.69
 HR,Croatia,Female,2020,81.18,NA,81.18,-0.83
+HR,Croatia,Male,1945,NA,NA,NA,NA
+HR,Croatia,Male,1946,NA,NA,NA,NA
+HR,Croatia,Male,1947,NA,NA,NA,NA
+HR,Croatia,Male,1948,NA,NA,NA,NA
+HR,Croatia,Male,1949,NA,NA,NA,NA
 HR,Croatia,Male,1950,NA,NA,NA,NA
 HR,Croatia,Male,1951,NA,NA,NA,NA
 HR,Croatia,Male,1952,NA,NA,NA,NA
@@ -4188,6 +4483,11 @@ HR,Croatia,Male,2017,75.05,74.87,74.87,-0.04
 HR,Croatia,Male,2018,74.99,74.86,74.86,-0.01
 HR,Croatia,Male,2019,75.44,NA,75.44,0.58
 HR,Croatia,Male,2020,74.61,NA,74.61,-0.83
+HR,Croatia,Total,1945,NA,NA,NA,NA
+HR,Croatia,Total,1946,NA,NA,NA,NA
+HR,Croatia,Total,1947,NA,NA,NA,NA
+HR,Croatia,Total,1948,NA,NA,NA,NA
+HR,Croatia,Total,1949,NA,NA,NA,NA
 HR,Croatia,Total,1950,NA,NA,NA,NA
 HR,Croatia,Total,1951,NA,NA,NA,NA
 HR,Croatia,Total,1952,NA,NA,NA,NA
@@ -4259,6 +4559,11 @@ HR,Croatia,Total,2017,78.32,77.9,77.9,-0.18
 HR,Croatia,Total,2018,78.5,78.11,78.11,0.21
 HR,Croatia,Total,2019,78.79,NA,78.79,0.68
 HR,Croatia,Total,2020,77.92,NA,77.92,-0.87
+HU,Hungary,Female,1945,NA,NA,NA,NA
+HU,Hungary,Female,1946,NA,NA,NA,NA
+HU,Hungary,Female,1947,NA,NA,NA,NA
+HU,Hungary,Female,1948,NA,NA,NA,NA
+HU,Hungary,Female,1949,NA,NA,NA,NA
 HU,Hungary,Female,1950,NA,64.31,64.31,NA
 HU,Hungary,Female,1951,NA,64.75,64.75,0.44
 HU,Hungary,Female,1952,NA,66.16,66.16,1.41
@@ -4330,6 +4635,11 @@ HU,Hungary,Female,2017,79.08,79.27,79.27,-0.3
 HU,Hungary,Female,2018,79.38,NA,79.38,0.11
 HU,Hungary,Female,2019,79.54,NA,79.54,0.16
 HU,Hungary,Female,2020,78.89,NA,78.89,-0.65
+HU,Hungary,Male,1945,NA,NA,NA,NA
+HU,Hungary,Male,1946,NA,NA,NA,NA
+HU,Hungary,Male,1947,NA,NA,NA,NA
+HU,Hungary,Male,1948,NA,NA,NA,NA
+HU,Hungary,Male,1949,NA,NA,NA,NA
 HU,Hungary,Male,1950,NA,59.93,59.93,NA
 HU,Hungary,Male,1951,NA,60.16,60.16,0.23
 HU,Hungary,Male,1952,NA,61.65,61.65,1.49
@@ -4401,6 +4711,11 @@ HU,Hungary,Male,2017,72.3,72.56,72.56,0
 HU,Hungary,Male,2018,72.49,NA,72.49,-0.07
 HU,Hungary,Male,2019,72.81,NA,72.81,0.33
 HU,Hungary,Male,2020,72.09,NA,72.09,-0.72
+HU,Hungary,Total,1945,NA,NA,NA,NA
+HU,Hungary,Total,1946,NA,NA,NA,NA
+HU,Hungary,Total,1947,NA,NA,NA,NA
+HU,Hungary,Total,1948,NA,NA,NA,NA
+HU,Hungary,Total,1949,NA,NA,NA,NA
 HU,Hungary,Total,1950,NA,62.14,62.14,NA
 HU,Hungary,Total,1951,NA,62.47,62.47,0.33
 HU,Hungary,Total,1952,NA,63.92,63.92,1.45
@@ -4472,6 +4787,11 @@ HU,Hungary,Total,2017,75.8,76,76,-0.16
 HU,Hungary,Total,2018,76.03,NA,76.03,0.03
 HU,Hungary,Total,2019,76.28,NA,76.28,0.25
 HU,Hungary,Total,2020,75.56,NA,75.56,-0.71
+IL,Israel,Female,1945,NA,NA,NA,NA
+IL,Israel,Female,1946,NA,NA,NA,NA
+IL,Israel,Female,1947,NA,NA,NA,NA
+IL,Israel,Female,1948,NA,NA,NA,NA
+IL,Israel,Female,1949,NA,NA,NA,NA
 IL,Israel,Female,1950,NA,NA,NA,NA
 IL,Israel,Female,1951,NA,NA,NA,NA
 IL,Israel,Female,1952,NA,NA,NA,NA
@@ -4543,6 +4863,11 @@ IL,Israel,Female,2017,84.54,NA,84.54,0.3
 IL,Israel,Female,2018,84.75,NA,84.75,0.21
 IL,Israel,Female,2019,84.59,NA,84.59,-0.17
 IL,Israel,Female,2020,84.48,NA,84.48,-0.1
+IL,Israel,Male,1945,NA,NA,NA,NA
+IL,Israel,Male,1946,NA,NA,NA,NA
+IL,Israel,Male,1947,NA,NA,NA,NA
+IL,Israel,Male,1948,NA,NA,NA,NA
+IL,Israel,Male,1949,NA,NA,NA,NA
 IL,Israel,Male,1950,NA,NA,NA,NA
 IL,Israel,Male,1951,NA,NA,NA,NA
 IL,Israel,Male,1952,NA,NA,NA,NA
@@ -4614,6 +4939,11 @@ IL,Israel,Male,2017,80.36,NA,80.36,-0.29
 IL,Israel,Male,2018,80.73,NA,80.73,0.38
 IL,Israel,Male,2019,80.78,NA,80.78,0.04
 IL,Israel,Male,2020,80.28,NA,80.28,-0.5
+IL,Israel,Total,1945,NA,NA,NA,NA
+IL,Israel,Total,1946,NA,NA,NA,NA
+IL,Israel,Total,1947,NA,NA,NA,NA
+IL,Israel,Total,1948,NA,NA,NA,NA
+IL,Israel,Total,1949,NA,NA,NA,NA
 IL,Israel,Total,1950,NA,NA,NA,NA
 IL,Israel,Total,1951,NA,NA,NA,NA
 IL,Israel,Total,1952,NA,NA,NA,NA
@@ -4685,7 +5015,12 @@ IL,Israel,Total,2017,82.51,NA,82.51,0.01
 IL,Israel,Total,2018,82.8,NA,82.8,0.29
 IL,Israel,Total,2019,82.73,NA,82.73,-0.07
 IL,Israel,Total,2020,82.42,NA,82.42,-0.31
-IS,Iceland,Female,1950,NA,73.52,73.52,NA
+IS,Iceland,Female,1945,NA,69.25,69.25,NA
+IS,Iceland,Female,1946,NA,71.7,71.7,2.45
+IS,Iceland,Female,1947,NA,71.32,71.32,-0.38
+IS,Iceland,Female,1948,NA,70.65,70.65,-0.67
+IS,Iceland,Female,1949,NA,73.21,73.21,2.56
+IS,Iceland,Female,1950,NA,73.52,73.52,0.31
 IS,Iceland,Female,1951,NA,72.81,72.81,-0.71
 IS,Iceland,Female,1952,NA,74.86,74.86,2.05
 IS,Iceland,Female,1953,NA,74.34,74.34,-0.52
@@ -4756,7 +5091,12 @@ IS,Iceland,Female,2017,84.02,84.07,84.07,0.2
 IS,Iceland,Female,2018,84.25,84.25,84.25,0.18
 IS,Iceland,Female,2019,84.42,NA,84.42,0.17
 IS,Iceland,Female,2020,84.34,NA,84.34,-0.07
-IS,Iceland,Male,1950,NA,68.58,68.58,NA
+IS,Iceland,Male,1945,NA,65.83,65.83,NA
+IS,Iceland,Male,1946,NA,65.39,65.39,-0.44
+IS,Iceland,Male,1947,NA,67.34,67.34,1.95
+IS,Iceland,Male,1948,NA,69.7,69.7,2.36
+IS,Iceland,Male,1949,NA,69.61,69.61,-0.09
+IS,Iceland,Male,1950,NA,68.58,68.58,-1.03
 IS,Iceland,Male,1951,NA,69.19,69.19,0.61
 IS,Iceland,Male,1952,NA,70.07,70.07,0.88
 IS,Iceland,Male,1953,NA,70.25,70.25,0.18
@@ -4827,7 +5167,12 @@ IS,Iceland,Male,2017,80.9,80.79,80.79,0.49
 IS,Iceland,Male,2018,81.03,81.09,81.09,0.3
 IS,Iceland,Male,2019,81.28,NA,81.28,0.19
 IS,Iceland,Male,2020,81.08,NA,81.08,-0.2
-IS,Iceland,Total,1950,NA,71.03,71.03,NA
+IS,Iceland,Total,1945,NA,67.55,67.55,NA
+IS,Iceland,Total,1946,NA,68.49,68.49,0.94
+IS,Iceland,Total,1947,NA,69.32,69.32,0.83
+IS,Iceland,Total,1948,NA,70.2,70.2,0.88
+IS,Iceland,Total,1949,NA,71.39,71.39,1.19
+IS,Iceland,Total,1950,NA,71.03,71.03,-0.36
 IS,Iceland,Total,1951,NA,71.02,71.02,-0.01
 IS,Iceland,Total,1952,NA,72.44,72.44,1.42
 IS,Iceland,Total,1953,NA,72.29,72.29,-0.15
@@ -4898,7 +5243,12 @@ IS,Iceland,Total,2017,82.43,82.4,82.4,0.34
 IS,Iceland,Total,2018,82.64,82.65,82.65,0.25
 IS,Iceland,Total,2019,82.84,NA,82.84,0.19
 IS,Iceland,Total,2020,82.69,NA,82.69,-0.15
-IT,Italy,Female,1950,NA,67.43,67.43,NA
+IT,Italy,Female,1945,NA,58.63,58.63,NA
+IT,Italy,Female,1946,NA,60.53,60.53,1.9
+IT,Italy,Female,1947,NA,62.92,62.92,2.39
+IT,Italy,Female,1948,NA,64.91,64.91,1.99
+IT,Italy,Female,1949,NA,65.62,65.62,0.71
+IT,Italy,Female,1950,NA,67.43,67.43,1.81
 IT,Italy,Female,1951,NA,67.05,67.05,-0.38
 IT,Italy,Female,1952,NA,67.69,67.69,0.64
 IT,Italy,Female,1953,NA,68.39,68.39,0.7
@@ -4969,7 +5319,12 @@ IT,Italy,Female,2017,84.81,84.91,84.91,-0.32
 IT,Italy,Female,2018,85.22,NA,85.22,0.31
 IT,Italy,Female,2019,85.36,NA,85.36,0.14
 IT,Italy,Female,2020,84.34,NA,84.34,-1.02
-IT,Italy,Male,1950,NA,63.94,63.94,NA
+IT,Italy,Male,1945,NA,51.24,51.24,NA
+IT,Italy,Male,1946,NA,57.31,57.31,6.07
+IT,Italy,Male,1947,NA,59.43,59.43,2.12
+IT,Italy,Male,1948,NA,61.87,61.87,2.44
+IT,Italy,Male,1949,NA,62.62,62.62,0.75
+IT,Italy,Male,1950,NA,63.94,63.94,1.32
 IT,Italy,Male,1951,NA,63.52,63.52,-0.42
 IT,Italy,Male,1952,NA,64.07,64.07,0.55
 IT,Italy,Male,1953,NA,64.7,64.7,0.63
@@ -5040,7 +5395,12 @@ IT,Italy,Male,2017,80.48,80.51,80.51,-0.28
 IT,Italy,Male,2018,80.85,NA,80.85,0.34
 IT,Italy,Male,2019,81.08,NA,81.08,0.23
 IT,Italy,Male,2020,79.82,NA,79.82,-1.26
-IT,Italy,Total,1950,NA,65.72,65.72,NA
+IT,Italy,Total,1945,NA,54.86,54.86,NA
+IT,Italy,Total,1946,NA,58.94,58.94,4.08
+IT,Italy,Total,1947,NA,61.2,61.2,2.26
+IT,Italy,Total,1948,NA,63.42,63.42,2.22
+IT,Italy,Total,1949,NA,64.15,64.15,0.73
+IT,Italy,Total,1950,NA,65.72,65.72,1.57
 IT,Italy,Total,1951,NA,65.31,65.31,-0.41
 IT,Italy,Total,1952,NA,65.91,65.91,0.6
 IT,Italy,Total,1953,NA,66.57,66.57,0.66
@@ -5111,6 +5471,11 @@ IT,Italy,Total,2017,82.72,82.79,82.79,-0.31
 IT,Italy,Total,2018,83.11,NA,83.11,0.32
 IT,Italy,Total,2019,83.3,NA,83.3,0.19
 IT,Italy,Total,2020,82.12,NA,82.12,-1.17
+KR,South Korea,Female,1945,NA,NA,NA,NA
+KR,South Korea,Female,1946,NA,NA,NA,NA
+KR,South Korea,Female,1947,NA,NA,NA,NA
+KR,South Korea,Female,1948,NA,NA,NA,NA
+KR,South Korea,Female,1949,NA,NA,NA,NA
 KR,South Korea,Female,1950,NA,NA,NA,NA
 KR,South Korea,Female,1951,NA,NA,NA,NA
 KR,South Korea,Female,1952,NA,NA,NA,NA
@@ -5182,6 +5547,11 @@ KR,South Korea,Female,2017,86.14,85.77,85.77,0.32
 KR,South Korea,Female,2018,86.06,85.78,85.78,0.01
 KR,South Korea,Female,2019,86.75,NA,86.75,0.97
 KR,South Korea,Female,2020,86.81,NA,86.81,0.07
+KR,South Korea,Male,1945,NA,NA,NA,NA
+KR,South Korea,Male,1946,NA,NA,NA,NA
+KR,South Korea,Male,1947,NA,NA,NA,NA
+KR,South Korea,Male,1948,NA,NA,NA,NA
+KR,South Korea,Male,1949,NA,NA,NA,NA
 KR,South Korea,Male,1950,NA,NA,NA,NA
 KR,South Korea,Male,1951,NA,NA,NA,NA
 KR,South Korea,Male,1952,NA,NA,NA,NA
@@ -5253,6 +5623,11 @@ KR,South Korea,Male,2017,79.63,79.73,79.73,0.39
 KR,South Korea,Male,2018,79.62,79.81,79.81,0.08
 KR,South Korea,Male,2019,80.15,NA,80.15,0.34
 KR,South Korea,Male,2020,80.32,NA,80.32,0.17
+KR,South Korea,Total,1945,NA,NA,NA,NA
+KR,South Korea,Total,1946,NA,NA,NA,NA
+KR,South Korea,Total,1947,NA,NA,NA,NA
+KR,South Korea,Total,1948,NA,NA,NA,NA
+KR,South Korea,Total,1949,NA,NA,NA,NA
 KR,South Korea,Total,1950,NA,NA,NA,NA
 KR,South Korea,Total,1951,NA,NA,NA,NA
 KR,South Korea,Total,1952,NA,NA,NA,NA
@@ -5324,6 +5699,11 @@ KR,South Korea,Total,2017,83.01,82.88,82.88,0.35
 KR,South Korea,Total,2018,82.94,82.91,82.91,0.03
 KR,South Korea,Total,2019,83.57,NA,83.57,0.66
 KR,South Korea,Total,2020,83.69,NA,83.69,0.12
+LT,Lithuania,Female,1945,NA,NA,NA,NA
+LT,Lithuania,Female,1946,NA,NA,NA,NA
+LT,Lithuania,Female,1947,NA,NA,NA,NA
+LT,Lithuania,Female,1948,NA,NA,NA,NA
+LT,Lithuania,Female,1949,NA,NA,NA,NA
 LT,Lithuania,Female,1950,NA,NA,NA,NA
 LT,Lithuania,Female,1951,NA,NA,NA,NA
 LT,Lithuania,Female,1952,NA,NA,NA,NA
@@ -5395,6 +5775,11 @@ LT,Lithuania,Female,2017,80.62,80.37,80.37,0.39
 LT,Lithuania,Female,2018,80.91,80.6,80.6,0.23
 LT,Lithuania,Female,2019,81.42,81.02,81.02,0.42
 LT,Lithuania,Female,2020,80.16,NA,80.16,-0.86
+LT,Lithuania,Male,1945,NA,NA,NA,NA
+LT,Lithuania,Male,1946,NA,NA,NA,NA
+LT,Lithuania,Male,1947,NA,NA,NA,NA
+LT,Lithuania,Male,1948,NA,NA,NA,NA
+LT,Lithuania,Male,1949,NA,NA,NA,NA
 LT,Lithuania,Male,1950,NA,NA,NA,NA
 LT,Lithuania,Male,1951,NA,NA,NA,NA
 LT,Lithuania,Male,1952,NA,NA,NA,NA
@@ -5466,6 +5851,11 @@ LT,Lithuania,Male,2017,70.82,70.71,70.71,1.24
 LT,Lithuania,Male,2018,70.96,70.91,70.91,0.2
 LT,Lithuania,Male,2019,71.38,71.5,71.5,0.59
 LT,Lithuania,Male,2020,69.69,NA,69.69,-1.81
+LT,Lithuania,Total,1945,NA,NA,NA,NA
+LT,Lithuania,Total,1946,NA,NA,NA,NA
+LT,Lithuania,Total,1947,NA,NA,NA,NA
+LT,Lithuania,Total,1948,NA,NA,NA,NA
+LT,Lithuania,Total,1949,NA,NA,NA,NA
 LT,Lithuania,Total,1950,NA,NA,NA,NA
 LT,Lithuania,Total,1951,NA,NA,NA,NA
 LT,Lithuania,Total,1952,NA,NA,NA,NA
@@ -5537,6 +5927,11 @@ LT,Lithuania,Total,2017,75.88,75.7,75.7,0.88
 LT,Lithuania,Total,2018,76.1,75.91,75.91,0.21
 LT,Lithuania,Total,2019,76.58,76.42,76.42,0.51
 LT,Lithuania,Total,2020,74.99,NA,74.99,-1.43
+LU,Luxembourg,Female,1945,NA,NA,NA,NA
+LU,Luxembourg,Female,1946,NA,NA,NA,NA
+LU,Luxembourg,Female,1947,NA,NA,NA,NA
+LU,Luxembourg,Female,1948,NA,NA,NA,NA
+LU,Luxembourg,Female,1949,NA,NA,NA,NA
 LU,Luxembourg,Female,1950,NA,NA,NA,NA
 LU,Luxembourg,Female,1951,NA,NA,NA,NA
 LU,Luxembourg,Female,1952,NA,NA,NA,NA
@@ -5608,6 +6003,11 @@ LU,Luxembourg,Female,2017,83.99,83.9,83.9,-0.89
 LU,Luxembourg,Female,2018,84.24,84.2,84.2,0.3
 LU,Luxembourg,Female,2019,84.74,84.79,84.79,0.59
 LU,Luxembourg,Female,2020,84.17,NA,84.17,-0.62
+LU,Luxembourg,Male,1945,NA,NA,NA,NA
+LU,Luxembourg,Male,1946,NA,NA,NA,NA
+LU,Luxembourg,Male,1947,NA,NA,NA,NA
+LU,Luxembourg,Male,1948,NA,NA,NA,NA
+LU,Luxembourg,Male,1949,NA,NA,NA,NA
 LU,Luxembourg,Male,1950,NA,NA,NA,NA
 LU,Luxembourg,Male,1951,NA,NA,NA,NA
 LU,Luxembourg,Male,1952,NA,NA,NA,NA
@@ -5679,6 +6079,11 @@ LU,Luxembourg,Male,2017,79.58,79.6,79.6,-0.23
 LU,Luxembourg,Male,2018,79.9,79.86,79.86,0.26
 LU,Luxembourg,Male,2019,80.03,80,80,0.14
 LU,Luxembourg,Male,2020,79.77,NA,79.77,-0.23
+LU,Luxembourg,Total,1945,NA,NA,NA,NA
+LU,Luxembourg,Total,1946,NA,NA,NA,NA
+LU,Luxembourg,Total,1947,NA,NA,NA,NA
+LU,Luxembourg,Total,1948,NA,NA,NA,NA
+LU,Luxembourg,Total,1949,NA,NA,NA,NA
 LU,Luxembourg,Total,1950,NA,NA,NA,NA
 LU,Luxembourg,Total,1951,NA,NA,NA,NA
 LU,Luxembourg,Total,1952,NA,NA,NA,NA
@@ -5750,6 +6155,11 @@ LU,Luxembourg,Total,2017,81.8,81.76,81.76,-0.55
 LU,Luxembourg,Total,2018,82.07,82.03,82.03,0.27
 LU,Luxembourg,Total,2019,82.38,82.4,82.4,0.37
 LU,Luxembourg,Total,2020,81.95,NA,81.95,-0.45
+LV,Latvia,Female,1945,NA,NA,NA,NA
+LV,Latvia,Female,1946,NA,NA,NA,NA
+LV,Latvia,Female,1947,NA,NA,NA,NA
+LV,Latvia,Female,1948,NA,NA,NA,NA
+LV,Latvia,Female,1949,NA,NA,NA,NA
 LV,Latvia,Female,1950,NA,NA,NA,NA
 LV,Latvia,Female,1951,NA,NA,NA,NA
 LV,Latvia,Female,1952,NA,NA,NA,NA
@@ -5821,6 +6231,11 @@ LV,Latvia,Female,2017,79.93,79.53,79.53,0.14
 LV,Latvia,Female,2018,79.96,NA,79.96,0.43
 LV,Latvia,Female,2019,80.34,NA,80.34,0.38
 LV,Latvia,Female,2020,80.06,NA,80.06,-0.28
+LV,Latvia,Male,1945,NA,NA,NA,NA
+LV,Latvia,Male,1946,NA,NA,NA,NA
+LV,Latvia,Male,1947,NA,NA,NA,NA
+LV,Latvia,Male,1948,NA,NA,NA,NA
+LV,Latvia,Male,1949,NA,NA,NA,NA
 LV,Latvia,Male,1950,NA,NA,NA,NA
 LV,Latvia,Male,1951,NA,NA,NA,NA
 LV,Latvia,Male,1952,NA,NA,NA,NA
@@ -5892,6 +6307,11 @@ LV,Latvia,Male,2017,69.97,69.8,69.8,0.01
 LV,Latvia,Male,2018,70.17,NA,70.17,0.37
 LV,Latvia,Male,2019,70.98,NA,70.98,0.81
 LV,Latvia,Male,2020,70.46,NA,70.46,-0.52
+LV,Latvia,Total,1945,NA,NA,NA,NA
+LV,Latvia,Total,1946,NA,NA,NA,NA
+LV,Latvia,Total,1947,NA,NA,NA,NA
+LV,Latvia,Total,1948,NA,NA,NA,NA
+LV,Latvia,Total,1949,NA,NA,NA,NA
 LV,Latvia,Total,1950,NA,NA,NA,NA
 LV,Latvia,Total,1951,NA,NA,NA,NA
 LV,Latvia,Total,1952,NA,NA,NA,NA
@@ -5963,7 +6383,12 @@ LV,Latvia,Total,2017,75.12,74.82,74.82,0.06
 LV,Latvia,Total,2018,75.22,NA,75.22,0.4
 LV,Latvia,Total,2019,75.86,NA,75.86,0.64
 LV,Latvia,Total,2020,75.41,NA,75.41,-0.44
-NL,Netherlands,Female,1950,NA,72.59,72.59,NA
+NL,Netherlands,Female,1945,NA,61.19,61.19,NA
+NL,Netherlands,Female,1946,NA,68.87,68.87,7.68
+NL,Netherlands,Female,1947,NA,70.84,70.84,1.97
+NL,Netherlands,Female,1948,NA,72.39,72.39,1.55
+NL,Netherlands,Female,1949,NA,71.58,71.58,-0.81
+NL,Netherlands,Female,1950,NA,72.59,72.59,1.01
 NL,Netherlands,Female,1951,NA,72.76,72.76,0.17
 NL,Netherlands,Female,1952,NA,73.29,73.29,0.53
 NL,Netherlands,Female,1953,NA,72.99,72.99,-0.3
@@ -6034,7 +6459,12 @@ NL,Netherlands,Female,2017,83.25,83.32,83.32,0.19
 NL,Netherlands,Female,2018,83.26,83.33,83.33,0.01
 NL,Netherlands,Female,2019,83.52,NA,83.52,0.19
 NL,Netherlands,Female,2020,82.95,NA,82.95,-0.56
-NL,Netherlands,Male,1950,NA,70.31,70.31,NA
+NL,Netherlands,Male,1945,NA,50.78,50.78,NA
+NL,Netherlands,Male,1946,NA,66.24,66.24,15.46
+NL,Netherlands,Male,1947,NA,68.3,68.3,2.06
+NL,Netherlands,Male,1948,NA,69.72,69.72,1.42
+NL,Netherlands,Male,1949,NA,69.02,69.02,-0.7
+NL,Netherlands,Male,1950,NA,70.31,70.31,1.29
 NL,Netherlands,Male,1951,NA,70.26,70.26,-0.05
 NL,Netherlands,Male,1952,NA,70.96,70.96,0.7
 NL,Netherlands,Male,1953,NA,70.43,70.43,-0.53
@@ -6105,7 +6535,12 @@ NL,Netherlands,Male,2017,80.15,80.07,80.07,0.19
 NL,Netherlands,Male,2018,80.26,80.15,80.15,0.08
 NL,Netherlands,Male,2019,80.58,NA,80.58,0.43
 NL,Netherlands,Male,2020,79.77,NA,79.77,-0.81
-NL,Netherlands,Total,1950,NA,71.44,71.44,NA
+NL,Netherlands,Total,1945,NA,55.58,55.58,NA
+NL,Netherlands,Total,1946,NA,67.53,67.53,11.95
+NL,Netherlands,Total,1947,NA,69.56,69.56,2.03
+NL,Netherlands,Total,1948,NA,71.04,71.04,1.48
+NL,Netherlands,Total,1949,NA,70.29,70.29,-0.75
+NL,Netherlands,Total,1950,NA,71.44,71.44,1.15
 NL,Netherlands,Total,1951,NA,71.5,71.5,0.06
 NL,Netherlands,Total,1952,NA,72.12,72.12,0.62
 NL,Netherlands,Total,1953,NA,71.7,71.7,-0.42
@@ -6176,7 +6611,12 @@ NL,Netherlands,Total,2017,81.74,81.73,81.73,0.18
 NL,Netherlands,Total,2018,81.79,81.77,81.77,0.04
 NL,Netherlands,Total,2019,82.08,NA,82.08,0.31
 NL,Netherlands,Total,2020,81.37,NA,81.37,-0.71
-NO,Norway,Female,1950,NA,73.25,73.25,NA
+NO,Norway,Female,1945,NA,70.45,70.45,NA
+NO,Norway,Female,1946,NA,71.3,71.3,0.85
+NO,Norway,Female,1947,NA,71.67,71.67,0.37
+NO,Norway,Female,1948,NA,72.86,72.86,1.19
+NO,Norway,Female,1949,NA,73.07,73.07,0.21
+NO,Norway,Female,1950,NA,73.25,73.25,0.18
 NO,Norway,Female,1951,NA,74.29,74.29,1.04
 NO,Norway,Female,1952,NA,74.3,74.3,0.01
 NO,Norway,Female,1953,NA,75.07,75.07,0.77
@@ -6247,7 +6687,12 @@ NO,Norway,Female,2017,84.09,84.26,84.26,0.11
 NO,Norway,Female,2018,84.26,84.47,84.47,0.21
 NO,Norway,Female,2019,84.44,NA,84.44,-0.03
 NO,Norway,Female,2020,84.61,NA,84.61,0.17
-NO,Norway,Male,1950,NA,69.92,69.92,NA
+NO,Norway,Male,1945,NA,65.97,65.97,NA
+NO,Norway,Male,1946,NA,67.79,67.79,1.82
+NO,Norway,Male,1947,NA,68.35,68.35,0.56
+NO,Norway,Male,1948,NA,69.39,69.39,1.04
+NO,Norway,Male,1949,NA,69.98,69.98,0.59
+NO,Norway,Male,1950,NA,69.92,69.92,-0.06
 NO,Norway,Male,1951,NA,70.76,70.76,0.84
 NO,Norway,Male,1952,NA,70.99,70.99,0.23
 NO,Norway,Male,1953,NA,71.24,71.24,0.25
@@ -6318,7 +6763,12 @@ NO,Norway,Male,2017,80.9,80.91,80.91,0.31
 NO,Norway,Male,2018,81,81,81,0.09
 NO,Norway,Male,2019,81.17,NA,81.17,0.17
 NO,Norway,Male,2020,81.35,NA,81.35,0.18
-NO,Norway,Total,1950,NA,71.59,71.59,NA
+NO,Norway,Total,1945,NA,68.19,68.19,NA
+NO,Norway,Total,1946,NA,69.54,69.54,1.35
+NO,Norway,Total,1947,NA,70.01,70.01,0.47
+NO,Norway,Total,1948,NA,71.13,71.13,1.12
+NO,Norway,Total,1949,NA,71.52,71.52,0.39
+NO,Norway,Total,1950,NA,71.59,71.59,0.07
 NO,Norway,Total,1951,NA,72.53,72.53,0.94
 NO,Norway,Total,1952,NA,72.65,72.65,0.12
 NO,Norway,Total,1953,NA,73.15,73.15,0.5
@@ -6389,7 +6839,12 @@ NO,Norway,Total,2017,82.52,82.61,82.61,0.2
 NO,Norway,Total,2018,82.65,82.75,82.75,0.14
 NO,Norway,Total,2019,82.83,NA,82.83,0.08
 NO,Norway,Total,2020,83,NA,83,0.17
-NZ,New Zealand,Female,1950,NA,71.24,71.24,NA
+NZ,New Zealand,Female,1945,NA,NA,NA,NA
+NZ,New Zealand,Female,1946,NA,NA,NA,NA
+NZ,New Zealand,Female,1947,NA,NA,NA,NA
+NZ,New Zealand,Female,1948,NA,70.83,70.83,NA
+NZ,New Zealand,Female,1949,NA,70.74,70.74,-0.09
+NZ,New Zealand,Female,1950,NA,71.24,71.24,0.5
 NZ,New Zealand,Female,1951,NA,71.44,71.44,0.2
 NZ,New Zealand,Female,1952,NA,71.49,71.49,0.05
 NZ,New Zealand,Female,1953,NA,72.7,72.7,1.21
@@ -6460,7 +6915,12 @@ NZ,New Zealand,Female,2017,82.83,NA,82.83,-0.38
 NZ,New Zealand,Female,2018,83.27,NA,83.27,0.43
 NZ,New Zealand,Female,2019,83.09,NA,83.09,-0.18
 NZ,New Zealand,Female,2020,84.05,NA,84.05,0.97
-NZ,New Zealand,Male,1950,NA,67.41,67.41,NA
+NZ,New Zealand,Male,1945,NA,NA,NA,NA
+NZ,New Zealand,Male,1946,NA,NA,NA,NA
+NZ,New Zealand,Male,1947,NA,NA,NA,NA
+NZ,New Zealand,Male,1948,NA,66.97,66.97,NA
+NZ,New Zealand,Male,1949,NA,67.27,67.27,0.3
+NZ,New Zealand,Male,1950,NA,67.41,67.41,0.14
 NZ,New Zealand,Male,1951,NA,66.98,66.98,-0.43
 NZ,New Zealand,Male,1952,NA,67.39,67.39,0.41
 NZ,New Zealand,Male,1953,NA,67.92,67.92,0.53
@@ -6531,7 +6991,12 @@ NZ,New Zealand,Male,2017,79.7,NA,79.7,-0.53
 NZ,New Zealand,Male,2018,79.94,NA,79.94,0.24
 NZ,New Zealand,Male,2019,79.89,NA,79.89,-0.04
 NZ,New Zealand,Male,2020,80.7,NA,80.7,0.81
-NZ,New Zealand,Total,1950,NA,69.25,69.25,NA
+NZ,New Zealand,Total,1945,NA,NA,NA,NA
+NZ,New Zealand,Total,1946,NA,NA,NA,NA
+NZ,New Zealand,Total,1947,NA,NA,NA,NA
+NZ,New Zealand,Total,1948,NA,68.81,68.81,NA
+NZ,New Zealand,Total,1949,NA,68.95,68.95,0.14
+NZ,New Zealand,Total,1950,NA,69.25,69.25,0.3
 NZ,New Zealand,Total,1951,NA,69.13,69.13,-0.12
 NZ,New Zealand,Total,1952,NA,69.37,69.37,0.24
 NZ,New Zealand,Total,1953,NA,70.21,70.21,0.84
@@ -6602,6 +7067,11 @@ NZ,New Zealand,Total,2017,81.31,NA,81.31,-0.46
 NZ,New Zealand,Total,2018,81.64,NA,81.64,0.33
 NZ,New Zealand,Total,2019,81.53,NA,81.53,-0.11
 NZ,New Zealand,Total,2020,82.42,NA,82.42,0.89
+PL,Poland,Female,1945,NA,NA,NA,NA
+PL,Poland,Female,1946,NA,NA,NA,NA
+PL,Poland,Female,1947,NA,NA,NA,NA
+PL,Poland,Female,1948,NA,NA,NA,NA
+PL,Poland,Female,1949,NA,NA,NA,NA
 PL,Poland,Female,1950,NA,NA,NA,NA
 PL,Poland,Female,1951,NA,NA,NA,NA
 PL,Poland,Female,1952,NA,NA,NA,NA
@@ -6673,6 +7143,11 @@ PL,Poland,Female,2017,81.64,81.55,81.55,-0.17
 PL,Poland,Female,2018,81.66,81.49,81.49,-0.06
 PL,Poland,Female,2019,81.96,NA,81.96,0.47
 PL,Poland,Female,2020,80.89,NA,80.89,-1.07
+PL,Poland,Male,1945,NA,NA,NA,NA
+PL,Poland,Male,1946,NA,NA,NA,NA
+PL,Poland,Male,1947,NA,NA,NA,NA
+PL,Poland,Male,1948,NA,NA,NA,NA
+PL,Poland,Male,1949,NA,NA,NA,NA
 PL,Poland,Male,1950,NA,NA,NA,NA
 PL,Poland,Male,1951,NA,NA,NA,NA
 PL,Poland,Male,1952,NA,NA,NA,NA
@@ -6744,6 +7219,11 @@ PL,Poland,Male,2017,73.83,73.85,73.85,0.02
 PL,Poland,Male,2018,73.81,73.75,73.75,-0.1
 PL,Poland,Male,2019,74.2,NA,74.2,0.45
 PL,Poland,Male,2020,72.7,NA,72.7,-1.5
+PL,Poland,Total,1945,NA,NA,NA,NA
+PL,Poland,Total,1946,NA,NA,NA,NA
+PL,Poland,Total,1947,NA,NA,NA,NA
+PL,Poland,Total,1948,NA,NA,NA,NA
+PL,Poland,Total,1949,NA,NA,NA,NA
 PL,Poland,Total,1950,NA,NA,NA,NA
 PL,Poland,Total,1951,NA,NA,NA,NA
 PL,Poland,Total,1952,NA,NA,NA,NA
@@ -6815,7 +7295,12 @@ PL,Poland,Total,2017,77.76,77.72,77.72,-0.09
 PL,Poland,Total,2018,77.75,77.63,77.63,-0.09
 PL,Poland,Total,2019,78.1,NA,78.1,0.47
 PL,Poland,Total,2020,76.74,NA,76.74,-1.36
-PT,Portugal,Female,1950,NA,61.02,61.02,NA
+PT,Portugal,Female,1945,NA,56.39,56.39,NA
+PT,Portugal,Female,1946,NA,56.31,56.31,-0.08
+PT,Portugal,Female,1947,NA,58.36,58.36,2.05
+PT,Portugal,Female,1948,NA,59.26,59.26,0.9
+PT,Portugal,Female,1949,NA,57.92,57.92,-1.34
+PT,Portugal,Female,1950,NA,61.02,61.02,3.1
 PT,Portugal,Female,1951,NA,61.3,61.3,0.28
 PT,Portugal,Female,1952,NA,62.18,62.18,0.88
 PT,Portugal,Female,1953,NA,63.62,63.62,1.44
@@ -6886,7 +7371,12 @@ PT,Portugal,Female,2017,84.29,84.32,84.32,0.21
 PT,Portugal,Female,2018,84.2,84.26,84.26,-0.06
 PT,Portugal,Female,2019,84.48,NA,84.48,0.22
 PT,Portugal,Female,2020,83.79,NA,83.79,-0.69
-PT,Portugal,Male,1950,NA,55.78,55.78,NA
+PT,Portugal,Male,1945,NA,51.08,51.08,NA
+PT,Portugal,Male,1946,NA,51.11,51.11,0.03
+PT,Portugal,Male,1947,NA,53.37,53.37,2.26
+PT,Portugal,Male,1948,NA,54.04,54.04,0.67
+PT,Portugal,Male,1949,NA,52.78,52.78,-1.26
+PT,Portugal,Male,1950,NA,55.78,55.78,3
 PT,Portugal,Male,1951,NA,56.06,56.06,0.28
 PT,Portugal,Male,1952,NA,57.16,57.16,1.1
 PT,Portugal,Male,1953,NA,58.37,58.37,1.21
@@ -6957,7 +7447,12 @@ PT,Portugal,Male,2017,78.41,78.35,78.35,0.31
 PT,Portugal,Male,2018,78.33,78.25,78.25,-0.1
 PT,Portugal,Male,2019,78.69,NA,78.69,0.44
 PT,Portugal,Male,2020,77.86,NA,77.86,-0.83
-PT,Portugal,Total,1950,NA,58.47,58.47,NA
+PT,Portugal,Total,1945,NA,53.78,53.78,NA
+PT,Portugal,Total,1946,NA,53.75,53.75,-0.03
+PT,Portugal,Total,1947,NA,55.93,55.93,2.18
+PT,Portugal,Total,1948,NA,56.72,56.72,0.79
+PT,Portugal,Total,1949,NA,55.41,55.41,-1.31
+PT,Portugal,Total,1950,NA,58.47,58.47,3.06
 PT,Portugal,Total,1951,NA,58.75,58.75,0.28
 PT,Portugal,Total,1952,NA,59.76,59.76,1.01
 PT,Portugal,Total,1953,NA,61.07,61.07,1.31
@@ -7028,6 +7523,11 @@ PT,Portugal,Total,2017,81.45,81.44,81.44,0.27
 PT,Portugal,Total,2018,81.36,81.36,81.36,-0.08
 PT,Portugal,Total,2019,81.69,NA,81.69,0.33
 PT,Portugal,Total,2020,80.9,NA,80.9,-0.78
+RU,Russia,Female,1945,NA,NA,NA,NA
+RU,Russia,Female,1946,NA,NA,NA,NA
+RU,Russia,Female,1947,NA,NA,NA,NA
+RU,Russia,Female,1948,NA,NA,NA,NA
+RU,Russia,Female,1949,NA,NA,NA,NA
 RU,Russia,Female,1950,NA,NA,NA,NA
 RU,Russia,Female,1951,NA,NA,NA,NA
 RU,Russia,Female,1952,NA,NA,NA,NA
@@ -7099,6 +7599,11 @@ RU,Russia,Female,2017,78.02,NA,78.02,0.59
 RU,Russia,Female,2018,78.09,NA,78.09,0.06
 RU,Russia,Female,2019,78.44,NA,78.44,0.36
 RU,Russia,Female,2020,76.64,NA,76.64,-1.8
+RU,Russia,Male,1945,NA,NA,NA,NA
+RU,Russia,Male,1946,NA,NA,NA,NA
+RU,Russia,Male,1947,NA,NA,NA,NA
+RU,Russia,Male,1948,NA,NA,NA,NA
+RU,Russia,Male,1949,NA,NA,NA,NA
 RU,Russia,Male,1950,NA,NA,NA,NA
 RU,Russia,Male,1951,NA,NA,NA,NA
 RU,Russia,Male,1952,NA,NA,NA,NA
@@ -7170,6 +7675,11 @@ RU,Russia,Male,2017,67.84,NA,67.84,0.93
 RU,Russia,Male,2018,67.95,NA,67.95,0.12
 RU,Russia,Male,2019,68.41,NA,68.41,0.45
 RU,Russia,Male,2020,66.73,NA,66.73,-1.68
+RU,Russia,Total,1945,NA,NA,NA,NA
+RU,Russia,Total,1946,NA,NA,NA,NA
+RU,Russia,Total,1947,NA,NA,NA,NA
+RU,Russia,Total,1948,NA,NA,NA,NA
+RU,Russia,Total,1949,NA,NA,NA,NA
 RU,Russia,Total,1950,NA,NA,NA,NA
 RU,Russia,Total,1951,NA,NA,NA,NA
 RU,Russia,Total,1952,NA,NA,NA,NA
@@ -7241,7 +7751,12 @@ RU,Russia,Total,2017,73.09,NA,73.09,0.8
 RU,Russia,Total,2018,73.18,NA,73.18,0.09
 RU,Russia,Total,2019,73.59,NA,73.59,0.42
 RU,Russia,Total,2020,71.78,NA,71.78,-1.81
-SE,Sweden,Female,1950,NA,72.44,72.44,NA
+SE,Sweden,Female,1945,NA,69.52,69.52,NA
+SE,Sweden,Female,1946,NA,70.67,70.67,1.15
+SE,Sweden,Female,1947,NA,70.63,70.63,-0.04
+SE,Sweden,Female,1948,NA,72.13,72.13,1.5
+SE,Sweden,Female,1949,NA,72.16,72.16,0.03
+SE,Sweden,Female,1950,NA,72.44,72.44,0.28
 SE,Sweden,Female,1951,NA,72.7,72.7,0.26
 SE,Sweden,Female,1952,NA,73.29,73.29,0.59
 SE,Sweden,Female,1953,NA,73.4,73.4,0.11
@@ -7312,7 +7827,12 @@ SE,Sweden,Female,2017,83.88,84.12,84.12,0.04
 SE,Sweden,Female,2018,84,84.26,84.26,0.14
 SE,Sweden,Female,2019,84.49,84.73,84.73,0.47
 SE,Sweden,Female,2020,83.9,NA,83.9,-0.83
-SE,Sweden,Male,1950,NA,69.85,69.85,NA
+SE,Sweden,Male,1945,NA,67.16,67.16,NA
+SE,Sweden,Male,1946,NA,68.36,68.36,1.2
+SE,Sweden,Male,1947,NA,68.33,68.33,-0.03
+SE,Sweden,Male,1948,NA,69.35,69.35,1.02
+SE,Sweden,Male,1949,NA,69.48,69.48,0.13
+SE,Sweden,Male,1950,NA,69.85,69.85,0.37
 SE,Sweden,Male,1951,NA,70.04,70.04,0.19
 SE,Sweden,Male,1952,NA,70.42,70.42,0.38
 SE,Sweden,Male,1953,NA,70.43,70.43,0.01
@@ -7383,7 +7903,12 @@ SE,Sweden,Male,2017,80.59,80.73,80.73,0.16
 SE,Sweden,Male,2018,80.66,80.79,80.79,0.06
 SE,Sweden,Male,2019,81.18,81.35,81.35,0.56
 SE,Sweden,Male,2020,80.31,NA,80.31,-1.04
-SE,Sweden,Total,1950,NA,71.14,71.14,NA
+SE,Sweden,Total,1945,NA,68.33,68.33,NA
+SE,Sweden,Total,1946,NA,69.51,69.51,1.18
+SE,Sweden,Total,1947,NA,69.48,69.48,-0.03
+SE,Sweden,Total,1948,NA,70.73,70.73,1.25
+SE,Sweden,Total,1949,NA,70.81,70.81,0.08
+SE,Sweden,Total,1950,NA,71.14,71.14,0.33
 SE,Sweden,Total,1951,NA,71.36,71.36,0.22
 SE,Sweden,Total,1952,NA,71.84,71.84,0.48
 SE,Sweden,Total,1953,NA,71.91,71.91,0.07
@@ -7454,6 +7979,11 @@ SE,Sweden,Total,2017,82.25,82.44,82.44,0.1
 SE,Sweden,Total,2018,82.34,82.54,82.54,0.1
 SE,Sweden,Total,2019,82.85,83.06,83.06,0.52
 SE,Sweden,Total,2020,82.1,NA,82.1,-0.96
+SI,Slovenia,Female,1945,NA,NA,NA,NA
+SI,Slovenia,Female,1946,NA,NA,NA,NA
+SI,Slovenia,Female,1947,NA,NA,NA,NA
+SI,Slovenia,Female,1948,NA,NA,NA,NA
+SI,Slovenia,Female,1949,NA,NA,NA,NA
 SI,Slovenia,Female,1950,NA,NA,NA,NA
 SI,Slovenia,Female,1951,NA,NA,NA,NA
 SI,Slovenia,Female,1952,NA,NA,NA,NA
@@ -7525,6 +8055,11 @@ SI,Slovenia,Female,2017,83.85,83.68,83.68,-0.18
 SI,Slovenia,Female,2018,84.13,NA,84.13,0.45
 SI,Slovenia,Female,2019,84.25,NA,84.25,0.12
 SI,Slovenia,Female,2020,83.17,NA,83.17,-1.08
+SI,Slovenia,Male,1945,NA,NA,NA,NA
+SI,Slovenia,Male,1946,NA,NA,NA,NA
+SI,Slovenia,Male,1947,NA,NA,NA,NA
+SI,Slovenia,Male,1948,NA,NA,NA,NA
+SI,Slovenia,Male,1949,NA,NA,NA,NA
 SI,Slovenia,Male,1950,NA,NA,NA,NA
 SI,Slovenia,Male,1951,NA,NA,NA,NA
 SI,Slovenia,Male,1952,NA,NA,NA,NA
@@ -7596,6 +8131,11 @@ SI,Slovenia,Male,2017,78.25,78.08,78.08,0.14
 SI,Slovenia,Male,2018,78.47,NA,78.47,0.39
 SI,Slovenia,Male,2019,78.63,NA,78.63,0.15
 SI,Slovenia,Male,2020,77.65,NA,77.65,-0.98
+SI,Slovenia,Total,1945,NA,NA,NA,NA
+SI,Slovenia,Total,1946,NA,NA,NA,NA
+SI,Slovenia,Total,1947,NA,NA,NA,NA
+SI,Slovenia,Total,1948,NA,NA,NA,NA
+SI,Slovenia,Total,1949,NA,NA,NA,NA
 SI,Slovenia,Total,1950,NA,NA,NA,NA
 SI,Slovenia,Total,1951,NA,NA,NA,NA
 SI,Slovenia,Total,1952,NA,NA,NA,NA
@@ -7667,6 +8207,11 @@ SI,Slovenia,Total,2017,81.1,80.93,80.93,0
 SI,Slovenia,Total,2018,81.34,NA,81.34,0.41
 SI,Slovenia,Total,2019,81.44,NA,81.44,0.1
 SI,Slovenia,Total,2020,80.39,NA,80.39,-1.05
+SK,Slovakia,Female,1945,NA,NA,NA,NA
+SK,Slovakia,Female,1946,NA,NA,NA,NA
+SK,Slovakia,Female,1947,NA,NA,NA,NA
+SK,Slovakia,Female,1948,NA,NA,NA,NA
+SK,Slovakia,Female,1949,NA,NA,NA,NA
 SK,Slovakia,Female,1950,NA,62.47,62.47,NA
 SK,Slovakia,Female,1951,NA,63.22,63.22,0.75
 SK,Slovakia,Female,1952,NA,66.24,66.24,3.02
@@ -7738,6 +8283,11 @@ SK,Slovakia,Female,2017,80.52,80.57,80.57,0.02
 SK,Slovakia,Female,2018,80.56,NA,80.56,-0.01
 SK,Slovakia,Female,2019,80.92,NA,80.92,0.37
 SK,Slovakia,Female,2020,80.14,NA,80.14,-0.79
+SK,Slovakia,Male,1945,NA,NA,NA,NA
+SK,Slovakia,Male,1946,NA,NA,NA,NA
+SK,Slovakia,Male,1947,NA,NA,NA,NA
+SK,Slovakia,Male,1948,NA,NA,NA,NA
+SK,Slovakia,Male,1949,NA,NA,NA,NA
 SK,Slovakia,Male,1950,NA,59.02,59.02,NA
 SK,Slovakia,Male,1951,NA,59.04,59.04,0.02
 SK,Slovakia,Male,1952,NA,62.31,62.31,3.27
@@ -7809,6 +8359,11 @@ SK,Slovakia,Male,2017,73.73,73.76,73.76,0.01
 SK,Slovakia,Male,2018,73.82,NA,73.82,0.06
 SK,Slovakia,Male,2019,74.2,NA,74.2,0.38
 SK,Slovakia,Male,2020,73.37,NA,73.37,-0.83
+SK,Slovakia,Total,1945,NA,NA,NA,NA
+SK,Slovakia,Total,1946,NA,NA,NA,NA
+SK,Slovakia,Total,1947,NA,NA,NA,NA
+SK,Slovakia,Total,1948,NA,NA,NA,NA
+SK,Slovakia,Total,1949,NA,NA,NA,NA
 SK,Slovakia,Total,1950,NA,60.77,60.77,NA
 SK,Slovakia,Total,1951,NA,61.14,61.14,0.37
 SK,Slovakia,Total,1952,NA,64.29,64.29,3.15
@@ -7880,6 +8435,11 @@ SK,Slovakia,Total,2017,77.19,77.22,77.22,0
 SK,Slovakia,Total,2018,77.25,NA,77.25,0.03
 SK,Slovakia,Total,2019,77.62,NA,77.62,0.38
 SK,Slovakia,Total,2020,76.79,NA,76.79,-0.83
+TW,Taiwan,Female,1945,NA,NA,NA,NA
+TW,Taiwan,Female,1946,NA,NA,NA,NA
+TW,Taiwan,Female,1947,NA,NA,NA,NA
+TW,Taiwan,Female,1948,NA,NA,NA,NA
+TW,Taiwan,Female,1949,NA,NA,NA,NA
 TW,Taiwan,Female,1950,NA,NA,NA,NA
 TW,Taiwan,Female,1951,NA,NA,NA,NA
 TW,Taiwan,Female,1952,NA,NA,NA,NA
@@ -7951,6 +8511,11 @@ TW,Taiwan,Female,2017,83.86,83.29,83.29,0.28
 TW,Taiwan,Female,2018,84.18,83.58,83.58,0.29
 TW,Taiwan,Female,2019,84.3,83.78,83.78,0.2
 TW,Taiwan,Female,2020,84.85,NA,84.85,1.07
+TW,Taiwan,Male,1945,NA,NA,NA,NA
+TW,Taiwan,Male,1946,NA,NA,NA,NA
+TW,Taiwan,Male,1947,NA,NA,NA,NA
+TW,Taiwan,Male,1948,NA,NA,NA,NA
+TW,Taiwan,Male,1949,NA,NA,NA,NA
 TW,Taiwan,Male,1950,NA,NA,NA,NA
 TW,Taiwan,Male,1951,NA,NA,NA,NA
 TW,Taiwan,Male,1952,NA,NA,NA,NA
@@ -8022,6 +8587,11 @@ TW,Taiwan,Male,2017,77.54,77.11,77.11,0.51
 TW,Taiwan,Male,2018,77.85,77.37,77.37,0.26
 TW,Taiwan,Male,2019,78.04,77.53,77.53,0.16
 TW,Taiwan,Male,2020,78.66,NA,78.66,1.13
+TW,Taiwan,Total,1945,NA,NA,NA,NA
+TW,Taiwan,Total,1946,NA,NA,NA,NA
+TW,Taiwan,Total,1947,NA,NA,NA,NA
+TW,Taiwan,Total,1948,NA,NA,NA,NA
+TW,Taiwan,Total,1949,NA,NA,NA,NA
 TW,Taiwan,Total,1950,NA,NA,NA,NA
 TW,Taiwan,Total,1951,NA,NA,NA,NA
 TW,Taiwan,Total,1952,NA,NA,NA,NA
@@ -8093,7 +8663,12 @@ TW,Taiwan,Total,2017,80.6,80.12,80.12,0.43
 TW,Taiwan,Total,2018,80.92,80.4,80.4,0.28
 TW,Taiwan,Total,2019,81.09,80.58,80.58,0.18
 TW,Taiwan,Total,2020,81.69,NA,81.69,1.11
-US,USA,Female,1950,NA,71.01,71.01,NA
+US,USA,Female,1945,NA,68.35,68.35,NA
+US,USA,Female,1946,NA,68.88,68.88,0.53
+US,USA,Female,1947,NA,69.55,69.55,0.67
+US,USA,Female,1948,NA,70.07,70.07,0.52
+US,USA,Female,1949,NA,70.52,70.52,0.45
+US,USA,Female,1950,NA,71.01,71.01,0.49
 US,USA,Female,1951,NA,71.22,71.22,0.21
 US,USA,Female,1952,NA,71.5,71.5,0.28
 US,USA,Female,1953,NA,71.91,71.91,0.41
@@ -8164,7 +8739,12 @@ US,USA,Female,2017,81.29,81.36,81.36,0
 US,USA,Female,2018,81.47,81.53,81.53,0.17
 US,USA,Female,2019,81.65,NA,81.65,0.12
 US,USA,Female,2020,79.99,NA,79.99,-1.66
-US,USA,Male,1950,NA,65.4,65.4,NA
+US,USA,Male,1945,NA,62.97,62.97,NA
+US,USA,Male,1946,NA,63.59,63.59,0.62
+US,USA,Male,1947,NA,64.32,64.32,0.73
+US,USA,Male,1948,NA,64.66,64.66,0.34
+US,USA,Male,1949,NA,65.02,65.02,0.36
+US,USA,Male,1950,NA,65.4,65.4,0.38
 US,USA,Male,1951,NA,65.41,65.41,0.01
 US,USA,Male,1952,NA,65.54,65.54,0.13
 US,USA,Male,1953,NA,65.8,65.8,0.26
@@ -8235,7 +8815,12 @@ US,USA,Male,2017,76.43,76.31,76.31,-0.05
 US,USA,Male,2018,76.61,76.47,76.47,0.16
 US,USA,Male,2019,76.74,NA,76.74,0.27
 US,USA,Male,2020,74.5,NA,74.5,-2.24
-US,USA,Total,1950,NA,68.06,68.06,NA
+US,USA,Total,1945,NA,65.59,65.59,NA
+US,USA,Total,1946,NA,66.13,66.13,0.54
+US,USA,Total,1947,NA,66.8,66.8,0.67
+US,USA,Total,1948,NA,67.22,67.22,0.42
+US,USA,Total,1949,NA,67.63,67.63,0.41
+US,USA,Total,1950,NA,68.06,68.06,0.43
 US,USA,Total,1951,NA,68.17,68.17,0.11
 US,USA,Total,1952,NA,68.38,68.38,0.21
 US,USA,Total,1953,NA,68.72,68.72,0.34

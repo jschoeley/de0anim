@@ -15,7 +15,7 @@ exclude <- c(
   'LU', # adolescent hazard profiles in 2019 very different from 2020
   'LV', # adolescent hazard profiles in 2019 very different from 2020
   'NZ', # coarse age groups
-  'TW', # not featured in paper
+  'TW', # death registration for 2020 not complete
   # we show the whole of GB
   'GB-EAW',
   'GB-SCT',
@@ -189,7 +189,7 @@ anim <-
   hrbrthemes::theme_ft_rc(base_family = 'Roboto Condensed') +
   labs(
     title = 'Annual changes in life-expectancy 1970 to 2020',
-    y = NULL, x = NULL,
+    y = NULL, x = NULL#,
     #caption = 'Data derived from: mortality.org Animation @jschoeley'
    ) +
   theme(

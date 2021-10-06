@@ -17,7 +17,7 @@ skeleton <- expand_grid(
     region_meta %>%
     select(region_code = region_code_iso3166_2, region_name),
   sex = c('Female', 'Male', 'Total'),
-  year = 1950:2020
+  year = 1945:2020
 )
 
 # Calculate e0 from PCLM ungrouped data ---------------------------
